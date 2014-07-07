@@ -33,6 +33,9 @@ Engine build model of all User knows via Indexing readed files.
 #Case 2
 Other text are matched against this model
 
+# Case 3
+When workforce is searched, then models are matched
+
 Tutor
 ---
 # Case 1
