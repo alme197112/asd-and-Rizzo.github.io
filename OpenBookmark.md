@@ -18,9 +18,9 @@ I want bookmark this as one item but 2 links.
 
 The same for mobile version of youtube. Or several url for desktop youtube but with different semantics.
 
-- Hook into
+- Hooks
 
-I mark words in Google translate. Hook into web app and remark into OB.
+I mark learned words in Google translate. Hook into web app and remark into OB.
 
 
 - Relations
@@ -30,13 +30,16 @@ is:"os"
 "os":is:"software"
 licensed:"open source"
 
+Kind of structured bookmars, first part is used for complex interfaces, other part to show simple.
+See cmap.ihmc.us/Publications/ResearchPapers/TheoryCmaps/TheoryUnderlyingConceptMaps.htm
+
 
 - Tag equality
 Allow specify
 ".net"  = ".NET", "open source" = "opensource" 
+or make auto correction
 
-
-- Bookmark follow
+- Social Bookmark
 I can copy bookmark of other person. 
 It will maintain link with root bookmark.
 When root bookmark changes, I got notified, so can apply/merge/cancel my changes.
