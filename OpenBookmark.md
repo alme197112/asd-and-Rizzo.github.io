@@ -7,6 +7,7 @@ Features
 ---
 
 - Defaults
+
 Most default features like Diigo has
 
 - 2 links 1 item. 
@@ -26,6 +27,7 @@ I mark learned words in Google translate. Hook into web app and remark into OB.
 - Relations
 
 Can do reactos.org with next tags "os" "software" "open source" enhanced like:
+
 is:"os"  
 "os":is:"software"
 licensed:"open source"
@@ -35,11 +37,13 @@ See cmap.ihmc.us/Publications/ResearchPapers/TheoryCmaps/TheoryUnderlyingConcept
 
 
 - Tag equality
+
 Allow specify
 ".net"  = ".NET", "open source" = "opensource" 
 or make auto correction
 
 - Social Bookmark
+
 I can copy bookmark of other person. 
 It will maintain link with root bookmark.
 When root bookmark changes, I got notified, so can apply/merge/cancel my changes.
