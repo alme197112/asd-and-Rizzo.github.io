@@ -9,7 +9,7 @@ List name (Projects, Education, more recent are closer to top):
 
 ***What project is about in one line (name)***
 
-Short non technical and end user oriented description. [Links to see it with your eyes.](http://asd-and-rizzo.github.io/cv_item_stucture.html)
+Short non technical and end user oriented description. [Links to see it with your eyes.](https://github.com/asd-and-Rizzo/asd-and-Rizzo.github.io/blob/master/cv_item_stucture.md)
 
 May be long description with high level technical details not entailed by very specific technologies.
 
