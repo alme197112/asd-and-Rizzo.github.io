@@ -187,7 +187,7 @@ As  finished: Machine Learning, Model Thinking, Data Science, Functional Program
 *Duration:* 04.2012-02.2014, part time
 
 
-[Belorussian State University, Faculty of Radiophysics and Computer Technologies (was Radiophysics and Electronics)](http://rfe.by/en)
+Belorussian State University, [Faculty of Radiophysics and Computer Technologies (was Radiophysics and Electronics)](http://rfe.by/en)
 ---
 
 Graduated university with Bachelor's degree, Major Radiophysics - 01.04.03, GPA: 6/10;
