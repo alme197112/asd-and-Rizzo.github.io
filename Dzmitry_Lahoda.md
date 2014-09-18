@@ -27,8 +27,7 @@ Working with denormalized database with constraints outlined in code and custom 
 *Duration:* 07.07.2014-now
 
 
-MS Office financial add ins suite: [Advanced Analytics](http://thomsonreuters.com/products_services/financial/financial_products/a-z/advanced_analytics) and [Eikon for Office](
-https://thomsonreuterseikon.com/blog/exploit-analytical-presentational-potential-thomson-reuters-eikon-microsoft-office-add/)
+MS Office financial add ins suite: [Advanced Analytics](http://thomsonreuters.com/products_services/financial/financial_products/a-z/advanced_analytics) and [Eikon for Office](https://thomsonreuterseikon.com/blog/exploit-analytical-presentational-potential-thomson-reuters-eikon-microsoft-office-add)
 ---
 
 Developed financial and productivity tools integrated with MS Office, developed framework for integrated suite of office and desktop applications
