@@ -15,7 +15,7 @@ Next I have outlined aspects of experience in projects I have been involved by s
 Projects:
 ---
 
-***Accounting and managment software for law firms***
+***ERP, accounting and managment software for law firms***
 
 http://thomsonreuters.com/3e/
 
@@ -27,6 +27,7 @@ Working with denormalized database with constraints outlined in code and custom 
 
 
 ***MS Office financial add ins suite***
+
 http://thomsonreuters.com/products_services/financial/financial_products/a-z/advanced_analytics
 
 https://thomsonreuterseikon.com/blog/exploit-analytical-presentational-potential-thomson-reuters-eikon-microsoft-office-add/
@@ -39,7 +40,7 @@ Developed financial and productivity tools integrated with MS Office, developed 
 
 *Role:* developer, writer
 
-*Organization:* [EPAM Systems](http://www.epam.com) [Thomson Reuters](http://thomsonreuters.com)
+*Organization:* [EPAM] [TR]
 
 *Team:* started from small end user functional team, become distributed team of changing size with many functional teams 
 
@@ -54,6 +55,9 @@ Developed financial and productivity tools integrated with MS Office, developed 
 [BDD]: http://en.wikipedia.org/wiki/Behavior-driven_development "Behavior-driven development"
 [OOAD]: http://en.wikipedia.org/wiki/Object-oriented_analysis_and_design "OOAD"
 [VSTO]: http://en.wikipedia.org/wiki/Visual_Studio_Tools_for_Office "VSTO"
+[EPAM]: http://www.epam.com "EPAM Systems"
+[TR]: http://thomsonreuters.com "Thomson Reuters"
+
 
 
 
