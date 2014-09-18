@@ -164,11 +164,11 @@ Education/Knowledge:
 Knowledge management
 ---
 
--https://www.diigo.com/user/dzmitry_lahoda
--http://asdandrizzo-se.blogspot.com/
--http://www.dmoz.org/public/profile?editor=asdandrizzo
--https://drive.google.com/folderview?id=0B2JxOi1f9p2zV1lDWDk2VWJWLWM&usp=sharing
--http://www.slideshare.net/asdandRizzo
+- https://www.diigo.com/user/dzmitry_lahoda
+- http://asdandrizzo-se.blogspot.com/
+- http://www.dmoz.org/public/profile?editor=asdandrizzo
+- https://drive.google.com/folderview?id=0B2JxOi1f9p2zV1lDWDk2VWJWLWM&usp=sharing
+- http://www.slideshare.net/asdandRizzo
 
 *Used:* tagging, mind and concept maps, notes, catalogs, solving exercise
 
@@ -188,6 +188,7 @@ As  finished: Machine Learning, Model Thinking, Data Science, Functional Program
 
 
 [Belorussian State University, Faculty of Radiophysics and Computer Technologies (was Radiophysics and Electronics)](http://rfe.by/en)
+---
 
 Graduated university with Bachelor's degree, Major Radiophysics - 01.04.03, GPA: 6/10;
 
