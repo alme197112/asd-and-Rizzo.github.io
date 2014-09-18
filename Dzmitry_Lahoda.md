@@ -79,7 +79,7 @@ Web Forms, TrueCrypt, Tor, ProjectLibre
 University works: Music Information Retrieval (visualization and analysis)
 ---
 
-Implementing intellectual musical player which visualizes and organizes music collection onto 2 dimensional space using features obtained from audio content. Building engine which learns what is “music” from audio collection provided using Hierarchical Temporal Memory. 
+Implementing intellectual musical player which visualizes and organizes music collection onto 2 dimensional space using features obtained from audio content. Building engine which learns what is "music" from audio collection provided using Hierarchical Temporal Memory. 
 
 [Produced texts](http://www.scribd.com/collections/4340277/bsu-by-2005-2010)
 
@@ -149,7 +149,7 @@ Created application which connected to woodworking machine and provided possibil
 Graduate database
 ---
 
-Created application for storing/reporting data about graduates, with installer and  user help. 2nd place on regional competition of school student’s software
+Created application for storing/reporting data about graduates, with installer and  user help. 2nd place on regional competition of school student's software
 
 *Organization:*  http://logos.edu.minskregion.by
 
@@ -199,7 +199,7 @@ Graduated university with Bachelor's degree, Major Radiophysics - 01.04.03, GPA:
 Software engineering courses
 ---
 
-***[ScienceSoft “.NET Framework” course](http://www.scnsoft.com/)***
+***[ScienceSoft ".NET Framework" course](http://www.scnsoft.com/)***
 
 Finished course of lectures devoted to .NET Framework. Implemented test web site for creating custom entities by Administrators and adding exemplars of them by Users. Entities have had variable number of fields (images, strings and numbers).
 
@@ -209,7 +209,7 @@ Finished course of lectures devoted to .NET Framework. Implemented test web site
 
 *Duration:* 11.2008, part time
 
-***[Itransition “Industrial software development” course](http://www.itransition.ru/career/training/software-development)***
+***[Itransition "Industrial software development" course](http://www.itransition.ru/career/training/software-development)***
 
 Finished  course of lectures devoted to testing, collaboration, Java, .NET, Object Oriented Programming (OOP), Design Patterns, Object Relational Mapping(ORM) and web development.
 
