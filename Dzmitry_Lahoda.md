@@ -48,6 +48,40 @@ Developed financial and productivity tools integrated with MS Office, developed 
 
 *Duration:* 02.2010-06.2014, full-time
 
+
+***Open source***
+
+https://github.com/asd-and-Rizzo
+
+https://www.ohloh.net/accounts/Dzmitry_Lahoda 
+
+https://gitorious.org/~asd-and-rizzo
+
+https://www.codeplex.com/site/users/view/asdandRizzo
+
+https://code.google.com/p/jen-ikvm-api/
+
+Long term open sources outlined later as separate items.
+
+*Used:* C#, .NET, C, code generation(T4 text templates,custom), F#, linear algebra, Octave, Rust, IKVM, git, Windows, XAML, XML, HTTP client, WPF, scripting, Linux, Python, COM,  C++
+
+*Duration:* 2009-now, part time
+
+
+***Website security/forensics audit from server side perspective***
+
+Reverse engineered web site and database. Wrote scripts for automated security checks running on server. Communicated and consulted with different specialists. Evaluated requirements and planned implementation.
+
+*Role:* auditor
+
+*Used:* C#, .NET 4.0, PKI, ILSpy, MS SQL Server 2008, SharpDevelop, IIS, ASP.NET Web Forms modules, ASP.NET 
+Web Forms, TrueCrypt, Tor, ProjectLibre
+
+*Duration:* 07.2011-01.2013, freelance, part time
+
+
+
+
 [Contacts]: https://github.com/asd-and-Rizzo/asd-and-Rizzo.github.io/blob/master/contacts.md "Contacts"
 [IPC]: https://en.wikipedia.org/wiki/Inter-process_communication "IPC"
 [BDD]: http://en.wikipedia.org/wiki/Behavior-driven_development "Behavior-driven development"
