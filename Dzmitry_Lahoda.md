@@ -13,11 +13,12 @@ Next I have outlined aspects of experience in projects I have been involved by s
 
 
 Projects:
+===
+
+[ERP, accounting and managment software for law firms](http://thomsonreuters.com/3e/)
 ---
 
--***ERP, accounting and managment software for law firms***
 
-http://thomsonreuters.com/3e/
 
 Working with denormalized database with constraints outlined in code and custom ORM. Working with XML as communication medium of client (UI, web api) and server. Working with custom IDE. Fixing bugs.
 
@@ -26,11 +27,9 @@ Working with denormalized database with constraints outlined in code and custom 
 *Duration:* 07.07.2014-now
 
 
-***MS Office financial add ins suite***
-
-http://thomsonreuters.com/products_services/financial/financial_products/a-z/advanced_analytics
-
-https://thomsonreuterseikon.com/blog/exploit-analytical-presentational-potential-thomson-reuters-eikon-microsoft-office-add/
+MS Office financial add ins suite: [Advanced Analytics](http://thomsonreuters.com/products_services/financial/financial_products/a-z/advanced_analytics) and [Eikon for Office](
+https://thomsonreuterseikon.com/blog/exploit-analytical-presentational-potential-thomson-reuters-eikon-microsoft-office-add/)
+---
 
 Developed financial and productivity tools integrated with MS Office, developed framework for integrated suite of office and desktop applications
 
@@ -49,17 +48,14 @@ Developed financial and productivity tools integrated with MS Office, developed 
 *Duration:* 02.2010-06.2014, full-time
 
 
-***Open source***
+Open source
+---
 
-https://github.com/asd-and-Rizzo
-
-https://www.ohloh.net/accounts/Dzmitry_Lahoda
- 
-https://gitorious.org/~asd-and-rizzo
-
-https://www.codeplex.com/site/users/view/asdandRizzo
-
-https://code.google.com/p/jen-ikvm-api/
+- https://github.com/asd-and-Rizzo
+- https://www.ohloh.net/accounts/Dzmitry_Lahoda
+- https://gitorious.org/~asd-and-rizzo
+- https://www.codeplex.com/site/users/view/asdandRizzo
+- https://code.google.com/p/jen-ikvm-api/
 
 Long term open sources outlined later as separate items.
 
@@ -68,7 +64,8 @@ Long term open sources outlined later as separate items.
 *Duration:* 2009-now, part time
 
 
-***Website security/forensics audit from server side perspective***
+Website security/forensics audit from server side perspective
+---
 
 Reverse engineered web site and database. Wrote scripts for automated security checks running on server. Communicated and consulted with different specialists. Evaluated requirements and planned implementation.
 
