@@ -1,9 +1,9 @@
+*E-mail/Google Hangouts:*  <mailto:Dzmitry.Lahoda@gmail.com>
+
 *Phone1:*  +375255318270 
 
 *Phone2:*  +375299195188
 
-*E-mail/Google Hangouts:*  <mailto:Dzmitry.Lahoda@gmail.com>
- 
 *Skype:*  asd.and.Rizzo (Dzmitry Lahoda)
 
 *Encrypted (PGP,OTR):*  <mailto:Dzmitry.Lahoda.pgp@gmail.com>
