@@ -4,7 +4,7 @@
 
 [Contacts][contacts]
 
-*Address:* Belarus, Minsk
+*Location:* Belarus, Minsk
 
 I like creating software, deliver correct and intuitive functional and code in time, create sustainable digital artifacts. I know many techs(mostly .NET/Windows) and use many tools. Experienced in open source. Applied machine learning is my interest, used against music. In order to be effective and efficient I tune my thoughts, tools and actions continuously. Computer user since 1993, write programs since 2003, self learner since childhood. I have experience in building custom software framework and reusable libraries. 
 
@@ -158,7 +158,78 @@ Created application for storing/reporting data about graduates, with installer a
 *Duration:* 09.2004-03.2005,  part time
 
 
+Education/Knowledge:
+===
 
+Knowledge management
+---
+
+-https://www.diigo.com/user/dzmitry_lahoda
+-http://asdandrizzo-se.blogspot.com/
+-http://www.dmoz.org/public/profile?editor=asdandrizzo
+-https://drive.google.com/folderview?id=0B2JxOi1f9p2zV1lDWDk2VWJWLWM&usp=sharing
+-http://www.slideshare.net/asdandRizzo
+
+*Used:* tagging, mind and concept maps, notes, catalogs, solving exercise
+
+*Duration:* 2005-now
+
+
+Lifelong learner
+---
+
+https://www.coursera.org
+
+As  finished: Machine Learning, Model Thinking, Data Science, Functional Programming Principles in Scala
+
+[Certificates](https://drive.google.com/folderview?id=0B2JxOi1f9p2zTUgtYV9mUkhZVHM&usp=sharing)
+
+*Duration:* 04.2012-02.2014, part time
+
+
+[Belorussian State University, Faculty of Radiophysics and Computer Technologies (was Radiophysics and Electronics)](http://rfe.by/en)
+
+Graduated university with Bachelor's degree, Major Radiophysics - 01.04.03, GPA: 6/10;
+
+*Documents*
+
+*Duration:* 2005-2010, full time
+
+Software engineering courses
+---
+
+***[ScienceSoft “.NET Framework” course](http://www.scnsoft.com/)***
+
+Finished course of lectures devoted to .NET Framework. Implemented test web site for creating custom entities by Administrators and adding exemplars of them by Users. Entities have had variable number of fields (images, strings and numbers).
+
+[Certificate](https://drive.google.com/file/d/0B2JxOi1f9p2zb1ZkTDREUWU0SGs/edit?usp=sharing)
+
+*Used:* .NET 2.0, ADO.NET, ASP.NET, ASP.NET Membership, SQL Server
+
+*Duration:* 11.2008, part time
+
+***[Itransition “Industrial software development” course](http://www.itransition.ru/career/training/software-development)***
+
+Finished  course of lectures devoted to testing, collaboration, Java, .NET, Object Oriented Programming (OOP), Design Patterns, Object Relational Mapping(ORM) and web development.
+
+Implemented test tasks and web site to add/store/search tagged technical documents.
+
+*Used:* .NET 2.0, ASP.NET, ASP.NET Membership, NHibernate, SQL Server, tinyMCE text editor, MS AJAX, NUnit, CodeDom
+
+*Duration:* 04.2008, part time
+
+
+Languages
+---
+
+- *English:* fluent reading/writing technical texts, working spoken, B2/Upper intermediate. 
+- *Russian, Belarusian:* native.
+
+
+Other
+---
+
+I learn math, algorithms and models of nature. I have driver licence type "B". Married with Maryna Lahoda, PhD. I have [next PC](http://valid.canardpc.com/2639433). I was born in 1988 year AD. I do not -  drink alcohol,  read/listen/watch fiction texts/films; except rare cases. I listen non fiction audio books. I do yoga. Learning to cook simple and healthy food. I believe in (politically, religiously): openness, transparency, science. Can find me in internet via [next query](http://www.google.com.by/search?hl=be&q=asdandRizzo+OR+%22asd.and.Rizzo%22+OR+%22asd-and-Rizzo%22+OR+%22asd_and_Rizzo%22+OR+%22Dzmitry+Lahoda%E2%80%9D+OR+%22dzmitry.lahoda%22&btnG=%D0%A8%D1%83%D0%BA%D0%B0%D1%86%D1%8C&meta).
 
 [Contacts]: https://github.com/asd-and-Rizzo/asd-and-Rizzo.github.io/blob/master/contacts.md "Contacts"
 [IPC]: https://en.wikipedia.org/wiki/Inter-process_communication "IPC"
