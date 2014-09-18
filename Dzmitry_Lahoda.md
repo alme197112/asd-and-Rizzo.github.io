@@ -15,7 +15,7 @@ Next I have outlined aspects of experience in projects I have been involved by s
 Projects:
 ---
 
-***ERP, accounting and managment software for law firms***
+-***ERP, accounting and managment software for law firms***
 
 http://thomsonreuters.com/3e/
 
@@ -52,9 +52,13 @@ Developed financial and productivity tools integrated with MS Office, developed 
 ***Open source***
 
 https://github.com/asd-and-Rizzo
-https://www.ohloh.net/accounts/Dzmitry_Lahoda 
+
+https://www.ohloh.net/accounts/Dzmitry_Lahoda
+ 
 https://gitorious.org/~asd-and-rizzo
+
 https://www.codeplex.com/site/users/view/asdandRizzo
+
 https://code.google.com/p/jen-ikvm-api/
 
 Long term open sources outlined later as separate items.
