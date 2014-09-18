@@ -40,7 +40,7 @@ Developed financial and productivity tools integrated with MS Office, developed 
 
 *Role:* developer, writer
 
-*Organization:* [EPAM] [TR]
+*Organization:* [EPAM], [TR]
 
 *Team:* started from small end user functional team, become distributed team of changing size with many functional teams 
 
