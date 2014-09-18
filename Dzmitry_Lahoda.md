@@ -51,7 +51,7 @@ Developed financial and productivity tools integrated with MS Office, developed 
 
 [You can use numbers for reference-style link definitions][1]
 
-[contacts] https://github.com/asd-and-Rizzo/asd-and-Rizzo.github.io/blob/master/contacts.md
+[contacts]: https://github.com/asd-and-Rizzo/asd-and-Rizzo.github.io/blob/master/contacts.md
 
 
 
