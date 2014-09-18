@@ -32,7 +32,7 @@ MS Office financial add ins suite: [Advanced Analytics](http://thomsonreuters.co
 
 Developed financial and productivity tools integrated with MS Office, developed framework for integrated suite of office and desktop applications
 
-*Details:* Developed software framework for creating unified customer experience across MS Office Add-ins and custom standalone applications used as basis by distributed teams. Integrated managed and native code, desktop and HTML and MS Office applications. Created documentation, did talks on customer side, coordinated with developers from several countries. Searched/refactored existing code, internal projects and solutions to fulfill new requirements as reusable components, did variability engineering, defined application programming interfaces.  Evaluated, tuned and incorporated open source to speed up development. Developed custom module system capable loading modules in isolated asynchronous manner. Developed custom host for plugins running in separate service process accessed via local [IPC]. Implemented custom local IPC, settings storage, framework for user interface composition. Developed web data fetching, authentication; solved  client side multiple login issues and auto-upgrade. Made fixes for thin client and multi user session scenarios, installed and used virtualization software to test on different setups, did automation. Made profiling and optimizations.  Wrote code/logs/performance analysis scripts and diagnostics/productivity tools. Debugged multithreaded and multiprocess issues. Introduced [Behavior-driven_development][BDD]. Developed software for linking data between Excel and Word. Developed financial data charting tool integrated with web sources and PowerPoint.
+*Details:* Developed software framework for creating unified customer experience across MS Office Add-ins and custom standalone applications used as basis by distributed teams. Integrated managed and native code, desktop and HTML and MS Office applications. Created documentation, did talks on customer side, coordinated with developers from several countries. Searched/refactored existing code, internal projects and solutions to fulfill new requirements as reusable components, did variability engineering, defined application programming interfaces.  Evaluated, tuned and incorporated open source to speed up development. Developed custom module system capable loading modules in isolated asynchronous manner. Developed custom host for plugins running in separate service process accessed via local [IPC]. Implemented custom local IPC, settings storage, framework for user interface composition. Developed web data fetching, authentication; solved  client side multiple login issues and auto-upgrade. Made fixes for thin client and multi user session scenarios, installed and used virtualization software to test on different setups, did automation. Made profiling and optimizations.  Wrote code/logs/performance analysis scripts and diagnostics/productivity tools. Debugged multithreaded and multiprocess issues. Introduced [Behavior-driven development][BDD]. Developed software for linking data between Excel and Word. Developed financial data charting tool integrated with web sources and PowerPoint.
  
 *Position:* Software Engineer - Lead Software Engineer
 
@@ -90,6 +90,74 @@ Implementing intellectual musical player which visualizes and organizes music co
 *Used:* MATLAB, Numenta, scatter plot, PCA(Principal component analysis), MATLAB Builder NE, MIRToolbox, Python, FFT(Fast Fourier Transformation), KNN(K-Nearest Neighborhoods), HTM(Hierarchical temporal memory)
 
 *Duration:* 10.2008-06.2010,  part time
+
+
+[Time Lapse Microscopy Capture Tool](http://TimeLapseExp.codeplex.com)
+---
+
+Created  application for time-lapse microscopy 
+
+[Certificates](https://drive.google.com/folderview?id=0B2JxOi1f9p2zaG4xeUJUU25pRjg&usp=sharing)
+
+*Role:* developer
+
+*Organization:* Institute of Physical Biology, transformed into [other](http://www.frov.jcu.cz/en/sks-frov-ju/skola-komkplexnich-systemu)
+
+*Team:* 2 PhD students
+
+*Used:* C#, .NET 3.5, Windows Forms, Olympus SDK, AForge, Visifire charts, NLog
+
+*Duration:* 07.2008, 07.2009, intern
+
+
+Social network data analysis and visualization
+---
+
+Creating application which had to get info from email server, process it and visualize as graph of communications. Implementing business and data access layers.
+
+*Organization:* [Itransition](http://www.itransition.ru)
+
+*Role:* junior developer
+
+*Team:* 3 junior developers, manager
+
+*Used:* Java EE5, EJB 3, JPA 1, MAVEN, MySQL 5.1, ClearCase, ClearQuest
+
+*Duration:* 08-10.2008,  part time
+
+
+Woodworking machine controller
+---
+
+Created application which connected to woodworking machine and provided possibility to edit/store/execute sawing plans and change sawing machine setups. 
+
+*Details:* Created ad-hoc config file format parser, two threading, text window system with edit boxes/menus/labels/help, communication protocol with hardware port.
+
+[Source and docs archive](https://drive.google.com/folderview?id=0B2JxOi1f9p2zNVZaV2pyTUlaeU0&usp=sharing)
+
+*Organization:* [Stroydetali Llc](http://www.stroydetali.by/en)
+
+*Role:* programmer
+
+*Team:* engineer, microcontroller programmer
+
+*Used:* TMT Pascal, MS-DOS, ASM, LPT
+
+*Duration:* 08-12.2006,  part time
+
+
+Graduate database
+---
+
+Created application for storing/reporting data about graduates, with installer and  user help. 2nd place on regional competition of school student’s software
+
+*Organization:*  http://logos.edu.minskregion.by
+
+*Used:* Borland Delphi 7, Rave Reports, SQL, InstallShield, HTML
+
+*Duration:* 09.2004-03.2005,  part time
+
+
 
 
 [Contacts]: https://github.com/asd-and-Rizzo/asd-and-Rizzo.github.io/blob/master/contacts.md "Contacts"
