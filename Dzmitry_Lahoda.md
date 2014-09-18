@@ -76,6 +76,20 @@ Web Forms, TrueCrypt, Tor, ProjectLibre
 *Duration:* 07.2011-01.2013, freelance, part time
 
 
+University works: Music Information Retrieval (visualization and analysis)
+---
+
+Implementing intellectual musical player which visualizes and organizes music collection onto 2 dimensional space using features obtained from audio content. Building engine which learns what is “music” from audio collection provided using Hierarchical Temporal Memory. 
+
+[Produced texts](http://www.scribd.com/collections/4340277/bsu-by-2005-2010)
+
+[Source code and experiments](https://drive.google.com/folderview?id=0B2JxOi1f9p2zY0Z5TVZndjJ2MzA&usp=sharing)
+
+*Team:* supervisor Igor Heidorov (igorhmm at mail dot ru), idea and whole implementation are mine
+
+*Used:* MATLAB, Numenta, scatter plot, PCA(Principal component analysis), MATLAB Builder NE, MIRToolbox, Python, FFT(Fast Fourier Transformation), KNN(K-Nearest Neighborhoods), HTM(Hierarchical temporal memory)
+
+*Duration:* 10.2008-06.2010,  part time
 
 
 [Contacts]: https://github.com/asd-and-Rizzo/asd-and-Rizzo.github.io/blob/master/contacts.md "Contacts"

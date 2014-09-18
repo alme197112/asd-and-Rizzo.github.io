@@ -6,12 +6,12 @@ I always do something when studying  and always learning while do something, bot
 
 
 List name (Projects, Education, more recent are closer to top and then go deep into time):
+===
+
+What project is about in one line [Named links to see it with your eyes.](https://github.com/asd-and-Rizzo/asd-and-Rizzo.github.io/blob/master/cv_item_stucture.md)
 ---
 
-
-***What project is about in one line (name)***
-
-Short non technical and end user oriented description. [Links to see it with your eyes.](https://github.com/asd-and-Rizzo/asd-and-Rizzo.github.io/blob/master/cv_item_stucture.md)
+Short non technical and end user oriented description. 
 
 May be long description with high level technical details not entailed by very specific technologies.
 
