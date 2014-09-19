@@ -164,37 +164,44 @@ Education/Knowledge:
 Knowledge management
 ---
 
-- https://www.diigo.com/user/dzmitry_lahoda
-- http://asdandrizzo-se.blogspot.com/
-- http://www.dmoz.org/public/profile?editor=asdandrizzo
-- https://drive.google.com/folderview?id=0B2JxOi1f9p2zV1lDWDk2VWJWLWM&usp=sharing
-- http://www.slideshare.net/asdandRizzo
+- [https://www.diigo.com/user/dzmitry_lahoda]
+- [http://asdandrizzo-se.blogspot.com/]
+- [http://www.dmoz.org/public/profile?editor=asdandrizzo]
+- [https://drive.google.com/folderview?id=0B2JxOi1f9p2zV1lDWDk2VWJWLWM&usp=sharing]
+- [http://www.slideshare.net/asdandRizzo]
 
 *Used:* tagging, mind and concept maps, notes, catalogs, solving exercise
 
 *Duration:* 2005-now
 
 
-Lifelong learner
+Lifelong learner 
 ---
 
-https://www.coursera.org
+***[Coursera](https://www.coursera.org)***
 
-As  finished: Machine Learning, Model Thinking, Data Science, Functional Programming Principles in Scala
+Finished Machine Learning, Model Thinking, Data Science, Functional Programming Principles in Scala
 
 [Certificates](https://drive.google.com/folderview?id=0B2JxOi1f9p2zTUgtYV9mUkhZVHM&usp=sharing)
 
 *Duration:* 04.2012-02.2014, part time
 
 
+***[Stanford Programming Paradigms (CS 107)](http://see.stanford.edu/see/courseinfo.aspx?coll=2d712634-2bf1-4b55-9a3a-ca9d470755ee)***
+
+Watched and worked through all lectures in course 
+
+*Duration:* year 2010, part time
+
+
 Belorussian State University, [Faculty of Radiophysics and Computer Technologies (was Radiophysics and Electronics)](http://rfe.by/en)
 ---
-
 Graduated university with Bachelor's degree, Major Radiophysics - 01.04.03, GPA: 6/10;
 
-*Documents*
+[Documents](https://drive.google.com/folderview?id=0B2JxOi1f9p2zeE9ocXpxNVpfZ2c&usp=sharing)
 
 *Duration:* 2005-2010, full time
+
 
 Software engineering courses
 ---
@@ -208,6 +215,7 @@ Finished course of lectures devoted to .NET Framework. Implemented test web site
 *Used:* .NET 2.0, ADO.NET, ASP.NET, ASP.NET Membership, SQL Server
 
 *Duration:* 11.2008, part time
+
 
 ***[Itransition "Industrial software development" course](http://www.itransition.ru/career/training/software-development)***
 
@@ -230,7 +238,7 @@ Languages
 Other
 ---
 
-I learn math, algorithms and models of nature. I have driver licence type "B". Married with Maryna Lahoda, PhD. I have [next PC](http://valid.canardpc.com/2639433). I was born in 1988 year AD. I do not -  drink alcohol,  read/listen/watch fiction texts/films; except rare cases. I listen non fiction audio books. I do yoga. Learning to cook simple and healthy food. I believe in (politically, religiously): openness, transparency, science. Can find me in internet via [next query](http://www.google.com.by/search?hl=be&q=asdandRizzo+OR+%22asd.and.Rizzo%22+OR+%22asd-and-Rizzo%22+OR+%22asd_and_Rizzo%22+OR+%22Dzmitry+Lahoda%E2%80%9D+OR+%22dzmitry.lahoda%22&btnG=%D0%A8%D1%83%D0%BA%D0%B0%D1%86%D1%8C&meta).
+I learn math, algorithms and models of nature. I have driver licence type "B". Married with Maryna Lahoda, PhD. I do work on [next mobile workstation](http://valid.canardpc.com/2639433). I was born in 1988 year AD. I do not -  drink alcohol,  read/listen/watch fiction texts/films; except rare cases. I listen non fiction audio books. I do yoga. Learning to cook simple and healthy food. I believe in (politically, religiously): openness, transparency, science. Can find me in internet via [next query](http://www.google.com.by/search?hl=be&q=asdandRizzo+OR+%22asd.and.Rizzo%22+OR+%22asd-and-Rizzo%22+OR+%22asd_and_Rizzo%22+OR+%22Dzmitry+Lahoda%E2%80%9D+OR+%22dzmitry.lahoda%22&btnG=%D0%A8%D1%83%D0%BA%D0%B0%D1%86%D1%8C&meta).
 
 [Contacts]: https://github.com/asd-and-Rizzo/asd-and-Rizzo.github.io/blob/master/contacts.md "Contacts"
 [IPC]: https://en.wikipedia.org/wiki/Inter-process_communication "IPC"
