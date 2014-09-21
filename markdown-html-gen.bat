@@ -1,0 +1,1 @@
+markdown-html --style stylesheets/markdown-html-style.css Dzmitry_Lahoda.md > Dzmitry_Lahoda.html

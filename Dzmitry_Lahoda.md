@@ -50,13 +50,13 @@ Developed financial and productivity tools integrated with MS Office, developed 
 Open source
 ---
 
-- https://github.com/asd-and-Rizzo
-- https://www.ohloh.net/accounts/Dzmitry_Lahoda
-- https://gitorious.org/~asd-and-rizzo
-- https://www.codeplex.com/site/users/view/asdandRizzo
-- https://code.google.com/p/jen-ikvm-api/
+- <https://github.com/asd-and-Rizzo>
+- <https://www.ohloh.net/accounts/Dzmitry_Lahoda>
+- <https://gitorious.org/~asd-and-rizzo>
+- <https://www.codeplex.com/site/users/view/asdandRizzo>
+- <https://code.google.com/p/jen-ikvm-api/>
 
-Long term open sources outlined later as separate items.
+Different project and researchlets. Long term open sources outlined later as separate items.
 
 *Used:* C#, .NET, C, code generation(T4 text templates,custom), F#, linear algebra, Octave, Rust, IKVM, git, Windows, XAML, XML, HTTP client, WPF, scripting, Linux, Python, COM,  C++
 
@@ -164,13 +164,12 @@ Education/Knowledge:
 Knowledge management
 ---
 
-- [https://www.diigo.com/user/dzmitry_lahoda]
-- [http://asdandrizzo-se.blogspot.com/]
-- [http://www.dmoz.org/public/profile?editor=asdandrizzo]
-- [https://drive.google.com/folderview?id=0B2JxOi1f9p2zV1lDWDk2VWJWLWM&usp=sharing]
-- [http://www.slideshare.net/asdandRizzo]
-
-*Used:* tagging, mind and concept maps, notes, catalogs, solving exercise
+Tagging [![Diigo](https://www.diigo.com/favicon.ico)](https://www.diigo.com/user/dzmitry_lahoda),
+blogging [![Blogspot](http://www.blogger.com/favicon.ico)](http://asdandrizzo-se.blogspot.com/),
+[notes](https://github.com/asd-and-Rizzo/asd-and-Rizzo.github.io),
+cataloging [![Dmoz](http://www.dmoz.org/img/mozilla.ico)](http://www.dmoz.org/public/profile?editor=asdandrizzo),
+publishing  [![Scribd](http://www.scribd.com/favicon.ico)](http://www.scribd.com/dzmitry.lahoda)   [![Slideshare](http://www.slideshare.net/favicon.ico)](http://www.slideshare.net/asdandRizzo),
+[mind and concept mapping, solving exercises](https://drive.google.com/folderview?id=0B2JxOi1f9p2zV1lDWDk2VWJWLWM&usp=sharing)
 
 *Duration:* 2005-now
 
