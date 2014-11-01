@@ -8,5 +8,5 @@
 
 *Encrypted (PGP,OTR):*  <mailto:Dzmitry.Lahoda.pgp@gmail.com>
 
-*Key:*  https://drive.google.com/folderview?id=0B2JxOi1f9p2zZFFOQ3hNdC16dDA&usp=sharing
+*Key:*  <https://drive.google.com/folderview?id=0B2JxOi1f9p2zZFFOQ3hNdC16dDA&usp=sharing>
 

@@ -6,23 +6,25 @@
 
 *Location:* Belarus, Minsk
 
-I like creating software, deliver correct and intuitive functional and code in time, create sustainable digital artifacts. I know many techs(mostly .NET/Windows) and use many tools. Experienced in open source. Applied machine learning is my interest, used against music. In order to be effective and efficient I tune my thoughts, tools and actions continuously. Computer user since 1993, write programs since 2003, self learner since childhood. I have experience in building custom software framework and reusable libraries. 
+I like creating software, deliver correct and intuitive functional and code in time, create sustainable digital artifacts. I know many techs(mostly .NET/Windows) and use many tools. Experienced in open source. I have experience in building custom software frameworks and reusable libraries. In order to be effective and efficient I tune my thoughts, tools and actions continuously. Computer user since 1993, write programs since 2003, self learner since childhood. Applied machine learning is my interest, used against music.  Proponent and practitioner of automation, machines should do work instead of humans, like: software testing and deployment, information search and suggestion.
 
 
-Next I have outlined aspects of experience in projects I have been involved by scheme provided [here](https://github.com/asd-and-Rizzo/asd-and-Rizzo.github.io/blob/master/cv_item_stucture.md). 
+Next I have outlined aspects of experience in projects I have been involved by scheme provided [here](cv_item_stucture.html). 
 
 
 Projects:
 ===
 
-[ERP, accounting and managment software for law firms](http://thomsonreuters.com/3e/)
+[ERP, accounting and management software for law firms](http://thomsonreuters.com/3e/)
 ---
 
+Fixing bugs in: custom database oriented [IDE], GUI generated out of XML, fault tolerant background task executions and notifications. Reverse engineering database.
 
+*Role:* developer
 
-Working with denormalized database with constraints outlined in code and custom ORM. Working with XML as communication medium of client (UI, web api) and server. Working with custom IDE. Fixing bugs.
+*Organization:* [EPAM Systems] service for [Thomson Reuters]
 
-*Used:* MS SQL, IIS, XML, VB.NET
+*Used:* MS SQL, IIS, XML, VB.NET, TFS, Silverlight, Cisco WebEx
 
 *Duration:* 07.07.2014-now
 
@@ -32,17 +34,17 @@ MS Office financial add ins suite: [Advanced Analytics](http://thomsonreuters.co
 
 Developed financial and productivity tools integrated with MS Office, developed framework for integrated suite of office and desktop applications
 
-*Details:* Developed software framework for creating unified customer experience across MS Office Add-ins and custom standalone applications used as basis by distributed teams. Integrated managed and native code, desktop and HTML and MS Office applications. Created documentation, did talks on customer side, coordinated with developers from several countries. Searched/refactored existing code, internal projects and solutions to fulfill new requirements as reusable components, did variability engineering, defined application programming interfaces.  Evaluated, tuned and incorporated open source to speed up development. Developed custom module system capable loading modules in isolated asynchronous manner. Developed custom host for plugins running in separate service process accessed via local [IPC]. Implemented custom local IPC, settings storage, framework for user interface composition. Developed web data fetching, authentication; solved  client side multiple login issues and auto-upgrade. Made fixes for thin client and multi user session scenarios, installed and used virtualization software to test on different setups, did automation. Made profiling and optimizations.  Wrote code/logs/performance analysis scripts and diagnostics/productivity tools. Debugged multithreaded and multiprocess issues. Introduced [Behavior-driven development][BDD]. Developed software for linking data between Excel and Word. Developed financial data charting tool integrated with web sources and PowerPoint.
+*Details:* Developed software framework for creating unified customer experience across MS Office Add-ins and custom standalone applications used as basis by distributed teams. Integrated managed and native code, desktop and HTML and MS Office applications. Created documentation, did talks on customer side, coordinated with developers from several countries. Searched/refactored existing code, internal projects and solutions to satisfy new requirements as reusable components, did variability engineering, defined application programming interfaces.  Evaluated, tuned and incorporated open source to speed up development. Developed custom module system capable loading modules in isolated asynchronous manner. Developed custom host for plugins running in separate service process accessed via local [IPC]. Implemented custom local IPC, settings storage, framework for user interface composition. Developed web data fetching, authentication; solved  client side multiple login issues and auto-upgrade. Made fixes for thin client and multi user session scenarios, installed and used virtualization software to test on different setups, did automation. Made profiling and optimizations.  Wrote code/logs/performance analysis scripts and diagnostics/productivity tools. Debugged multithreaded and multiprocess issues. Introduced [Behavior-driven development][BDD]. Developed software for linking data between Excel and Word. Developed financial data charting tool integrated with web sources and PowerPoint.
  
 *Position:* Software Engineer - Lead Software Engineer
 
 *Role:* developer, writer
 
-*Organization:* [EPAM Systems], [Thomson Reuters]
+*Organization:* [EPAM Systems] service for [Thomson Reuters]
 
 *Team:* started from small end user functional team, become distributed team of changing size with many functional teams 
 
-*Used:* .NET 3.5-4.0, C#, OOP, [OOAD], Refactoring, native Windows programming technologies, WPF, MVVM, WinAPI, dependency injection(Unity and custom), XAML, C, COM, EntLib, MS Office extensibility (2003-2013, Word, PowerPoint, Excel) ,TDD, MS Tests, tests mocking, [BDD], SpecFlow, multithreading, [VSTO], source and bytecode analysis,[IPC], WCF, MS-RPC, Moq, WinDbg, Windows XP-8, Scrum, Jive The Hub, UML, VirtualBox, plotting/charting, packaging (3rd party and custom), TPL, Atlassian JIRA,  FreeMind, TortoiseSVN, XML,binary serialization,Visio, F#, Atlassian Confluence, packaging (WiX, NuGet, custom), Visifire charts, Mono.Cecil, protobuf-net, ATL, C++,VBA, HTML, MS Server 2008 RemoteApp, Rhino.Mocks, AutoIt, OpenRepGrid, gtest
+*Used:* .NET 3.5-4.0, C#, OOP, [OOAD], Refactoring, native Windows programming technologies, WPF, MVVM, WinAPI, dependency injection(Unity and custom), XAML, C, COM, EntLib, MS Office extensibility (2003-2013, Word, PowerPoint, Excel) ,TDD, MS Tests, tests mocking, [BDD], SpecFlow, multithreading, [VSTO], source and bytecode analysis,[IPC], WCF, MS-RPC, Moq, WinDbg, Windows XP-8, Scrum, Jive The Hub, UML, VirtualBox, plotting/charting(Visifire charts), TPL, Atlassian JIRA, Outlook,  FreeMind, TortoiseSVN, XML,binary serialization,Visio, F#, Atlassian Confluence, packaging (WiX, NuGet, custom), Mono.Cecil, protobuf-net, ATL, C++,VBA, HTML, MS Server 2008 RemoteApp, Rhino.Mocks, AutoIt, OpenRepGrid, gtest
 
 *Duration:* 02.2010-06.2014, full-time
 
@@ -87,7 +89,7 @@ Implementing intellectual musical player which visualizes and organizes music co
 
 *Team:* supervisor Igor Heidorov (igorhmm at mail dot ru), idea and whole implementation are mine
 
-*Used:* MATLAB, Numenta, scatter plot, PCA(Principal component analysis), MATLAB Builder NE, MIRToolbox, Python, FFT(Fast Fourier Transformation), KNN(K-Nearest Neighborhoods), HTM(Hierarchical temporal memory)
+*Used:* MATLAB, Numenta, scatter plot, PCA(Principal component analysis), MATLAB Builder NE, MIRToolbox, Python, FFT(Fast Fourier Transformation), KNN(K-Nearest Neighbourhoods), HTM(Hierarchical temporal memory)
 
 *Duration:* 10.2008-06.2010,  part time
 
@@ -95,7 +97,7 @@ Implementing intellectual musical player which visualizes and organizes music co
 [Time Lapse Microscopy Capture Tool](http://TimeLapseExp.codeplex.com)
 ---
 
-Created  application for time-lapse microscopy 
+Created  application for time-lapse microscopy. 
 
 [Certificates](https://drive.google.com/folderview?id=0B2JxOi1f9p2zaG4xeUJUU25pRjg&usp=sharing)
 
@@ -131,7 +133,7 @@ Woodworking machine controller
 
 Created application which connected to woodworking machine and provided possibility to edit/store/execute sawing plans and change sawing machine setups. 
 
-*Details:* Created ad-hoc config file format parser, two threading, text window system with edit boxes/menus/labels/help, communication protocol with hardware port.
+*Details:* Created ad-hoc configuration file format parser, two threading, text window system with edit boxes/menus/labels/help, communication protocol with hardware port.
 
 [Source and docs archive](https://drive.google.com/folderview?id=0B2JxOi1f9p2zNVZaV2pyTUlaeU0&usp=sharing)
 
@@ -239,13 +241,15 @@ Other
 
 I learn math, algorithms and models of nature. I have driver licence type "B". Married with Maryna Lahoda, PhD. I do work on [next mobile workstation](http://valid.canardpc.com/2639433). I was born in 1988 year AD. I do not -  drink alcohol,  read/listen/watch fiction texts/films; except rare cases. I listen non fiction audio books. I do yoga. Learning to cook simple and healthy food. I believe in (politically, religiously): openness, transparency, science. Can find me in internet via [next query](http://www.google.com.by/search?hl=be&q=asdandRizzo+OR+%22asd.and.Rizzo%22+OR+%22asd-and-Rizzo%22+OR+%22asd_and_Rizzo%22+OR+%22Dzmitry+Lahoda%E2%80%9D+OR+%22dzmitry.lahoda%22&btnG=%D0%A8%D1%83%D0%BA%D0%B0%D1%86%D1%8C&meta).
 
-[Contacts]: https://github.com/asd-and-Rizzo/asd-and-Rizzo.github.io/blob/master/contacts.md "Contacts"
+[Contacts]: contacts.html "Contacts"
 [IPC]: https://en.wikipedia.org/wiki/Inter-process_communication "IPC"
 [BDD]: http://en.wikipedia.org/wiki/Behavior-driven_development "Behavior-driven development"
 [OOAD]: http://en.wikipedia.org/wiki/Object-oriented_analysis_and_design "OOAD"
 [VSTO]: http://en.wikipedia.org/wiki/Visual_Studio_Tools_for_Office "VSTO"
 [EPAM Systems]: http://www.epam.com 
 [Thomson Reuters]: http://thomsonreuters.com 
+[IDE]: http://en.wikipedia.org/wiki/Integrated_development_environment
+[cancel cells animation]: https://www.google.com/search?q=asd.and.Rizzo+cancer&oq=asd.and.Rizzo+cancer
 
 
 
