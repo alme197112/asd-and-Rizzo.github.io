@@ -8,9 +8,7 @@
 
 I like creating software, deliver correct and intuitive functional and code in time, create sustainable digital artifacts. I know many techs(mostly .NET/Windows) and use many tools. Experienced in open source. I have experience in building custom software frameworks and reusable libraries. In order to be effective and efficient I tune my thoughts, tools and actions continuously. Computer user since 1993, write programs since 2003, self learner since childhood. Applied machine learning is my interest, used against music.  Proponent and practitioner of automation, machines should do work instead of humans, like: software testing and deployment, information search and suggestion.
 
-
-Next I have outlined aspects of experience in projects I have been involved by scheme provided [here](cv_item_stucture.html). 
-
+**Projects**,I have been involved, and **Education/Knowledge**,I have obtained, enumerations are outlined according next [scheme](cv_item_stucture.html). 
 
 Projects:
 ===
@@ -24,7 +22,7 @@ Fixing bugs in: custom database oriented [IDE], GUI generated out of XML, fault 
 
 *Organization:* [EPAM Systems] service for [Thomson Reuters]
 
-*Used:* MS SQL, IIS, XML, VB.NET, TFS, Silverlight, Cisco WebEx
+*Used:* MS SQL, IIS, XML, VB.NET, TFS, Silverlight, Cisco WebEx, [VUE]
 
 *Duration:* 07.07.2014-now
 
@@ -52,8 +50,9 @@ Developed financial and productivity tools integrated with MS Office, developed 
 Open source
 ---
 
-- <https://github.com/asd-and-Rizzo>
-- <https://www.ohloh.net/accounts/Dzmitry_Lahoda>
+- <https://github.com/asd-and-Rizzo> 
+- <https://github.com/OpenSharp/>
+- <https://www.ohloh.net/accounts/Dzmitry_Lahoda> 
 - <https://gitorious.org/~asd-and-rizzo>
 - <https://www.codeplex.com/site/users/view/asdandRizzo>
 - <https://code.google.com/p/jen-ikvm-api/>
@@ -117,7 +116,7 @@ Social network data analysis and visualization
 
 Creating application which had to get info from email server, process it and visualize as graph of communications. Implementing business and data access layers.
 
-*Organization:* [Itransition](http://www.itransition.ru)
+*Organization:* [Itransition](http://www.itransition.by)
 
 *Role:* junior developer
 
@@ -218,7 +217,7 @@ Finished course of lectures devoted to .NET Framework. Implemented test web site
 *Duration:* 11.2008, part time
 
 
-***[Itransition "Industrial software development" course](http://www.itransition.ru/career/training/software-development)***
+***[Itransition "Industrial software development" course](http://www.itransition.by/career/training/software-development/)***
 
 Finished  course of lectures devoted to testing, collaboration, Java, .NET, Object Oriented Programming (OOP), Design Patterns, Object Relational Mapping(ORM) and web development.
 
@@ -250,7 +249,7 @@ I learn math, algorithms and models of nature. I have driver licence type "B". M
 [Thomson Reuters]: http://thomsonreuters.com 
 [IDE]: http://en.wikipedia.org/wiki/Integrated_development_environment
 [cancel cells animation]: https://www.google.com/search?q=asd.and.Rizzo+cancer&oq=asd.and.Rizzo+cancer
-
+[VUE]: http://vue.tufts.edu/
 
 
 
