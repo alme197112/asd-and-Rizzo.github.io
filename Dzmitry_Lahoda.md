@@ -6,7 +6,7 @@
 
 *Location:* Belarus, Minsk
 
-I like creating software, deliver correct and intuitive functional and code in time, create sustainable digital artifacts. I know many techs(mostly .NET/Windows) and use many tools. Experienced in open source. I have experience in building custom software frameworks and reusable libraries. In order to be effective and efficient I tune my thoughts, tools and actions continuously. Computer user since 1993, write programs since 2003, self learner since childhood. Applied machine learning is my interest, used against music.  Proponent and practitioner of automation, machines should do work instead of humans, like: software testing and deployment, information search and suggestion.
+I create software, deliver correct and intuitive functional and code in time, create sustainable digital artifacts. I know many techs(mostly .NET/Windows) and use many tools. Experienced in open source. I have experience in building custom software frameworks and reusable libraries. In order to be effective and efficient I tune my thoughts, tools and actions continuously. Computer user since 1993, write programs since 2003, self learner since childhood. Applied machine learning is my interest, used against music.  Proponent and practitioner of automation, machines should do work instead of humans, like: software testing and deployment, information search and suggestion.
 
 **Projects**,I have been involved, and **Education/Knowledge**,I have obtained, enumerations are outlined according next [scheme](cv_item_stucture.html). 
 
