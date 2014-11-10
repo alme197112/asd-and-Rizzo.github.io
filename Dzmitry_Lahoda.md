@@ -6,7 +6,7 @@
 
 *Location:* Belarus, Minsk
 
-I create software, deliver correct and intuitive functional and code in time, produce sustainable digital artifacts. I know many techs(mostly .NET/Windows) and use many tools. Experienced in open source. I have experience in building custom software frameworks and reusable libraries. In order to be effective and efficient I tune my thoughts, tools and actions continuously. Computer user since 1993, write programs since 2003, self learner since childhood. Applied machine learning is my interest, used against music.  Proponent and practitioner of automation, machines should do work instead of humans, like: software testing and deployment, information search and suggestion.
+I create software, deliver correct and intuitive functional and code in time, produce sustainable digital artifacts. I know many techs(mostly .NET/Windows) and use many tools. Developed software frameworks and reusable libraries. Experienced in open source. In order to be effective and efficient I tune my thoughts, tools and actions continuously. Computer user since 1993, write programs since 2003, self learner since childhood. Applied machine learning is my interest, used against music.  Proponent and practitioner of automation, machines should do work instead of humans, like: software testing and deployment, information search and suggestion.
 
 **Projects**,I have been involved, and **Education/Knowledge**,I have obtained, enumerations are outlined according next [scheme](cv_item_stucture.html). 
 
@@ -49,7 +49,7 @@ Developed financial and productivity tools integrated with MS Office, developed 
 
 Open source
 ---
-
+`
 - <https://github.com/asd-and-Rizzo> 
 - <https://github.com/OpenSharp/>
 - <https://www.ohloh.net/accounts/Dzmitry_Lahoda> 
@@ -57,7 +57,7 @@ Open source
 - <https://www.codeplex.com/site/users/view/asdandRizzo>
 - <https://code.google.com/p/jen-ikvm-api/>
 
-Different project and researchlets. Long term open sources outlined later as separate items.
+Contains different project and researchlets. Long term open sources outlined later as separate items.
 
 *Used:* C#, .NET, C, code generation(T4 text templates,custom), F#, linear algebra, Octave, Rust, IKVM, git, Windows, XAML, XML, HTTP client, WPF, scripting, Linux, Python, COM,  C++
 
@@ -140,9 +140,9 @@ Created application which connected to woodworking machine and provided possibil
 
 *Role:* programmer
 
-*Team:* engineer, microcontroller programmer
+*Team:* engineer, microcontroller programmer and me
 
-*Used:* TMT Pascal, MS-DOS, ASM, LPT
+*Used:* TMT Pascal 3, MS-DOS, ASM, [LPT](https://en.wikipedia.org/wiki/Parallel_port)
 
 *Duration:* 08-12.2006,  part time
 
