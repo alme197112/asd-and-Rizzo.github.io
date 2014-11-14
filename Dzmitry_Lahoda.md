@@ -71,8 +71,7 @@ Reverse engineered web site and database. Wrote scripts for automated security c
 
 *Role:* auditor
 
-*Used:* C#, .NET 4.0, PKI, ILSpy, MS SQL Server 2008, SharpDevelop, IIS, ASP.NET Web Forms modules, ASP.NET 
-Web Forms, TrueCrypt, Tor, ProjectLibre
+*Used:* C#, .NET 4.0, PKI, ILSpy, MS SQL Server 2008, SharpDevelop, IIS, ASP.NET Web Forms, ASP.NET Module, TrueCrypt, JavaScript, VirtualBox, Tor, ProjectLibre
 
 *Duration:* 07.2011-01.2013, freelance, part time
 
