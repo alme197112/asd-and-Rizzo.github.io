@@ -2,8 +2,7 @@
 
 Browser hooks
 ---
-Any kind of browser decetor and logic to work with it.
-See images about browser hooks. Fiddler for .NET 4.0 either detects Firefox and updates its plugin inside, even in portable version of Firefox.
+http://www.freedownloadmanager.org/board/viewtopic.php?f=3&t=14886
 
 Browser selector
 ---
@@ -16,5 +15,13 @@ When we enter or leave VPN, change WiFi or LAN, we have event and can change def
 Credentials/switcher cleaner with hooks
 ---
 When we changed some credential entered in many browser and utils, we can delete or update these in one act.
+
+Virtualization
+---
+Should have range of open source virtualization, after VirutalBox open source USB support and ReactOs will be usable - this will be the case. As of now, some virutalization host-guest-container is support by 
+- PortableApp 
+- DosBox/FreeDos
+- Xen runs Windows well
+- Docker will be only in new Windows
 
 
