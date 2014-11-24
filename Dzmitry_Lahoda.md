@@ -6,9 +6,10 @@
 
 *Location:* Belarus, Minsk
 
-I create software, deliver correct and intuitive functional and code in time, produce sustainable digital artifacts. I know many techs(mostly .NET/Windows) and use many tools. Developed software frameworks and reusable libraries. Experienced in open source. In order to be effective and efficient I tune my thoughts, tools and actions continuously. Computer user since 1993, write programs since 2003, self learner since childhood. Applied machine learning is my interest, used against music.  Proponent and practitioner of automation, machines should do work instead of humans, like: software testing and deployment, information search and suggestion.
+I create software, deliver correct and intuitive functional and code in time, produce sustainable digital artifacts. I know many techs and use many tools, developed software frameworks and reusable libraries. Experienced in open source, .NET (with internals targeting unmanaged code integration and custom frameworks development), Windows, technical documentation authoring. In order to be effective and efficient I tune my thoughts, tools and actions continuously. Computer user since 1993, write programs since 2004, work in big companies since 2010, self learner since childhood. Applied machine learning is my interest, used against music.  Proponent and practitioner of automation, machines should do work instead of humans, like: software testing and deployment, information search and suggestion.
 
 **Projects**,I have been involved, and **Education/Knowledge**,I have obtained, enumerations are outlined according next [scheme](cv_item_stucture.html). 
+
 
 Projects:
 ===
@@ -16,7 +17,10 @@ Projects:
 [ERP, accounting and management software for law firms](http://thomsonreuters.com/3e/)
 ---
 
-Fixing bugs in: custom database oriented [IDE], GUI generated out of XML, fault tolerant background task executions and notifications. Reverse engineering database.
+Maintained client-server application framework, which has technical part dated back to 2004 and domain model dated back to 1994. Fixed bugs in: custom database oriented [IDE], GUI visualized out of XML, fault tolerant background task executions and notifications. Reverse engineering database.
+
+
+*Position:* Lead Software Engineer, Contractor
 
 *Role:* developer
 
@@ -34,7 +38,7 @@ Developed financial and productivity tools integrated with MS Office, developed 
 
 *Details:* Developed software framework for creating unified customer experience across MS Office Add-ins and custom standalone applications used as basis by distributed teams. Integrated managed and native code, desktop and HTML and MS Office applications. Created documentation, did talks on customer side, coordinated with developers from several countries. Searched/refactored existing code, internal projects and solutions to satisfy new requirements as reusable components, did variability engineering, defined application programming interfaces.  Evaluated, tuned and incorporated open source to speed up development. Developed custom module system capable loading modules in isolated asynchronous manner. Developed custom host for plugins running in separate service process accessed via local [IPC]. Implemented custom local IPC, settings storage, framework for user interface composition. Developed web data fetching, authentication; solved  client side multiple login issues and auto-upgrade. Made fixes for thin client and multi user session scenarios, installed and used virtualization software to test on different setups, did automation. Made profiling and optimizations.  Wrote code/logs/performance analysis scripts and diagnostics/productivity tools. Debugged multithreaded and multiprocess issues. Introduced [Behavior-driven development][BDD]. Developed software for linking data between Excel and Word. Developed financial data charting tool integrated with web sources and PowerPoint.
  
-*Position:* Software Engineer - Lead Software Engineer
+*Position:* Software Engineer - Lead Software Engineer, Contractor
 
 *Role:* developer, writer
 

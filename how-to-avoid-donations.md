@@ -1,18 +1,11 @@
 This list contains some way to avoid donations when you develop open source software.
 
 
-Bad ways
----
-
 [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Asked_questions#Where_can_I_make_a_monetary_donation_to_FreeMind.3F)
 ```
 Where can I make a monetary donation to FreeMind?
 Currently, we do not accept any monetary donations. --Danielpolansky 00:32, 21 Nov 2005 (PST)
 ```
-
-
-Good ways
----
 
 [Workwave](http://www.workrave.org/documentation/faq/#i-really-like-your-software-do-you-accept-donations)
 ```
