@@ -19,7 +19,6 @@ Projects:
 
 Maintained client-server application framework, which has technical part dated back to 2004 and domain model dated back to 1994. Fixed bugs in: custom database oriented [IDE], GUI visualized out of XML, fault tolerant background task executions and notifications. Reverse engineering database.
 
-
 *Position:* Lead Software Engineer, Contractor
 
 *Role:* developer
@@ -61,7 +60,7 @@ Open source
 - <https://www.codeplex.com/site/users/view/asdandRizzo>
 - <https://code.google.com/p/jen-ikvm-api/>
 
-Contains different project and researchlets. Long term open sources outlined later as separate items.
+Contains different project and researchlets. Long term open sources outlined more fully as separate items.
 
 *Used:* C#, .NET, C, code generation(T4 text templates,custom), F#, linear algebra, Octave, Rust, IKVM, git, Windows, XAML, XML, HTTP client, WPF, scripting, Linux, Python, COM,  C++
 
@@ -83,11 +82,7 @@ Reverse engineered web site and database. Wrote scripts for automated security c
 University works: Music Information Retrieval (visualization and analysis)
 ---
 
-Implementing intellectual musical player which visualizes and organizes music collection onto 2 dimensional space using features obtained from audio content. Building engine which learns what is "music" from audio collection provided using Hierarchical Temporal Memory. 
-
-[Produced texts](http://www.scribd.com/collections/4340277/bsu-by-2005-2010)
-
-[Source code and experiments](https://drive.google.com/folderview?id=0B2JxOi1f9p2zY0Z5TVZndjJ2MzA&usp=sharing)
+[Implementing(https://drive.google.com/folderview?id=0B2JxOi1f9p2zY0Z5TVZndjJ2MzA&usp=sharing) intellectual musical player which visualizes and organizes music collection onto 2 dimensional space using features obtained from audio content. Building engine which learns what is "music" from audio content provided using Hierarchical Temporal Memory. Made [report](http://www.scribd.com/collections/4340277/bsu-by-2005-2010) of work done.
 
 *Team:* supervisor Igor Heidorov (igorhmm at mail dot ru), idea and whole implementation are mine
 
@@ -99,9 +94,7 @@ Implementing intellectual musical player which visualizes and organizes music co
 [Time Lapse Microscopy Capture Tool](http://TimeLapseExp.codeplex.com)
 ---
 
-Created  application for time-lapse microscopy. 
-
-[Certificates](https://drive.google.com/folderview?id=0B2JxOi1f9p2zaG4xeUJUU25pRjg&usp=sharing)
+Created and presented application for time-lapse microscopy during [summer school](https://drive.google.com/folderview?id=0B2JxOi1f9p2zaG4xeUJUU25pRjg&usp=sharing). 
 
 *Role:* developer
 
@@ -130,14 +123,12 @@ Creating application which had to get info from email server, process it and vis
 *Duration:* 08-10.2008,  part time
 
 
-Woodworking machine controller
+[Woodworking machine controller](https://drive.google.com/folderview?id=0B2JxOi1f9p2zNVZaV2pyTUlaeU0&usp=sharing)
 ---
 
 Created application which connected to woodworking machine and provided possibility to edit/store/execute sawing plans and change sawing machine setups. 
 
 *Details:* Created ad-hoc configuration file format parser, two threading, text window system with edit boxes/menus/labels/help, communication protocol with hardware port.
-
-[Source and docs archive](https://drive.google.com/folderview?id=0B2JxOi1f9p2zNVZaV2pyTUlaeU0&usp=sharing)
 
 *Organization:* [Stroydetali Llc](http://www.stroydetali.by/en)
 
@@ -183,9 +174,7 @@ Lifelong learner
 
 ***[Coursera](https://www.coursera.org)***
 
-Finished Machine Learning, Model Thinking, Data Science, Functional Programming Principles in Scala
-
-[Certificates](https://drive.google.com/folderview?id=0B2JxOi1f9p2zTUgtYV9mUkhZVHM&usp=sharing)
+[Finished](https://drive.google.com/folderview?id=0B2JxOi1f9p2zTUgtYV9mUkhZVHM&usp=sharing) Machine Learning, Model Thinking, Data Science, Functional Programming Principles in Scala
 
 *Duration:* 04.2012-02.2014, part time
 
@@ -199,9 +188,7 @@ Watched and worked through all lectures in course
 
 Belorussian State University, [Faculty of Radiophysics and Computer Technologies (was Radiophysics and Electronics)](http://rfe.by/en)
 ---
-Graduated university with Bachelor's degree, Major Radiophysics - 01.04.03, GPA: 6/10;
-
-[Documents](https://drive.google.com/folderview?id=0B2JxOi1f9p2zeE9ocXpxNVpfZ2c&usp=sharing)
+[Graduated](https://drive.google.com/folderview?id=0B2JxOi1f9p2zeE9ocXpxNVpfZ2c&usp=sharing) university with Bachelor's degree, Major Radiophysics - 01.04.03, GPA: 6/10;
 
 *Duration:* 2005-2010, full time
 
@@ -211,9 +198,7 @@ Software engineering courses
 
 ***[ScienceSoft ".NET Framework" course](http://www.scnsoft.com/)***
 
-Finished course of lectures devoted to .NET Framework. Implemented test web site for creating custom entities by Administrators and adding exemplars of them by Users. Entities have had variable number of fields (images, strings and numbers).
-
-[Certificate](https://drive.google.com/file/d/0B2JxOi1f9p2zb1ZkTDREUWU0SGs/edit?usp=sharing)
+[Finished](https://drive.google.com/file/d/0B2JxOi1f9p2zb1ZkTDREUWU0SGs/edit?usp=sharing) course of lectures devoted to .NET Framework. Implemented test web site for creating custom entities by Administrators and adding exemplars of them by Users. Entities have had variable number of fields (images, strings and numbers).
 
 *Used:* .NET 2.0, ADO.NET, ASP.NET, ASP.NET Membership, SQL Server
 
