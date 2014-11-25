@@ -54,10 +54,15 @@ Open source
 ---
 `
 - <https://github.com/asd-and-Rizzo> 
+
 - <https://github.com/OpenSharp/>
+
 - <https://www.ohloh.net/accounts/Dzmitry_Lahoda> 
+
 - <https://gitorious.org/~asd-and-rizzo>
+
 - <https://www.codeplex.com/site/users/view/asdandRizzo>
+
 - <https://code.google.com/p/jen-ikvm-api/>
 
 Contains different project and researchlets. Long term open sources outlined more fully as separate items.
@@ -82,7 +87,7 @@ Reverse engineered web site and database. Wrote scripts for automated security c
 University works: Music Information Retrieval (visualization and analysis)
 ---
 
-[Implementing(https://drive.google.com/folderview?id=0B2JxOi1f9p2zY0Z5TVZndjJ2MzA&usp=sharing) intellectual musical player which visualizes and organizes music collection onto 2 dimensional space using features obtained from audio content. Building engine which learns what is "music" from audio content provided using Hierarchical Temporal Memory. Made [report](http://www.scribd.com/collections/4340277/bsu-by-2005-2010) of work done.
+[Implementing](https://drive.google.com/folderview?id=0B2JxOi1f9p2zY0Z5TVZndjJ2MzA&usp=sharing) intellectual musical player which visualizes and organizes music collection onto 2 dimensional space using features obtained from audio content. Building engine which learns what is "music" from audio content provided using Hierarchical Temporal Memory. Made [report](http://www.scribd.com/collections/4340277/bsu-by-2005-2010) of work done.
 
 *Team:* supervisor Igor Heidorov (igorhmm at mail dot ru), idea and whole implementation are mine
 
