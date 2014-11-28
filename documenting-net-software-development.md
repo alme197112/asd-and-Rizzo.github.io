@@ -4,35 +4,54 @@ How to write docs while developing .NET software
 If you write good Code you write good Docs. If you write bad Docs you write bad Code. If you write bad Code you write bad Docs.
 
 Context
-There is no usual paper.  All  things digital. Paper Docs are dead.
-Economically efficient are open, transparent and crowd sourced  processes. Open/transparent/crowd sourced inside Enterprise or/and outside. Other kind of processes are efficient in rare cases.
+---
+
+- There is no usual paper. 
+- All  things digital. Paper Docs are dead.
+- Economically efficient are open, transparent and crowd sourced processes. 
+- Open/transparent/crowd sourced inside Enterprise or/and outside. 
+- Other kind of processes are efficient in rare cases.
 
 
 What
-Docs and Code are Digital Artifacts.
-Docs includes Code.
-Executable Code is executable Docs.
-Docs consist of symbols and images.
-Code consist of symbols.
-Symbols are organized into higher level structures.
+---
+-Docs and Code are Digital Artifacts.
+-Docs includes Code.
+-Executable Code is executable Docs.
+-Docs consist of symbols and images.
+-Code consist of symbols.
+-Symbols are organized into higher level structures.
 
 Properties
+---
+
 Documentation has similar proprieties as executable Code text.
 
-Searchable 
+**Searchable**
+
 Target audience can find symbols via search engine.
+
 Not searchable Docs = Not existing Docs. Total waste.
-Bad:
--Not indexed enterprise Software Control Management with *.doc files in it is waste. E.g. SVN not indexed by Elastic Search.
--Not indexed email communication regarding requirements or design is waste. E.g. 3 email threads about the same thing instead.
-- CHM file uploaded into indexed location with not support for CHM, instead of convering CHM to PDF.
-Good:
-- Enterprise collaboration network usage
-- Public internet source repositories and public email.
+
+*Bad:*
+
+-Not indexed enterprise Software Control Management with *.doc files in it is waste. E.g. container.doc files commited into SVN not indexed by Elastic Search.
+
+- Not indexed email communication regarding requirements or design is waste. E.g. 3 email threads about the same thing instead 1.
+
+- CHM file uploaded into indexed location with not support for CHM, CHM to PDF conversion should be done.
+
+*Good:*
+
+- Enterprise collaboration network or wiki
+
+- Public internet source repositories and public conversation threads
 
 
-Linked
-Each Doc links with `See also` to other Docs.
+**Linked**
+
+Each Doc links with `See also` and reference to other Docs.
+
 Good examples
 - Wikipedia
 - This book [7]. It links to itself, to other books. Exercises also link to creators of exercises. Source of book available in TeX files linked to each other.
@@ -42,14 +61,14 @@ Bad examples:
 - All books without free online versions because you cannot freely link into them inside your Docs for other to read.
 
 
-Always usable without "ToDo" noise
+**Always usable without "ToDo" noise**
 No TBD (to be done), no ToDo in text. All such things replaced with one sentence maximally representing what should be unfolded when whole doc is written. Instead of TBD/ToDo phrase which allows guessing intent and makes doc to be always ready.
 Never DRAFT. Also can be marked DRAFT, but still valuable and valid.[1]
 
-Evolutionary
+**Evolutionary**
 Good doc starts from few lines of facts which written in 5 minutes but give much more of time saving for others. Then this facts are elaborated, surrounded with definitions, examples, spitted into several docs.
 
-Maintainable
+**Maintainable**
 Any person can change and generate output of docs, with all revisions traceable.
 Bad examples:
 - Using proprietary software for drawing diagrams when use is not well grounded. This may prevent other people who have no this software from editing and viewing diagrams. May prevent from having Continuous Deployment sever from generating diagram images as part of build process.
@@ -62,10 +81,12 @@ Good examples:
 Question oriented 
 If somebody going to ask highly anticipated question via private email or chat - write answer beforehand into searchable location. Convert questions and answers in private communication into part of documents.
 
-Targeted
+**Targeted**
 Use views and place views into place people habitat . Think of other people and write for them accordingly [4][5]
 
-Right place
+- QA or Support oriented docs should not cotains
+
+**Right place**
 Search place where docs will be most visible. Write docs into classes, instead of docs.[2][3]
 Bad examples
 - Docs are not with code where most value would be provided
@@ -82,22 +103,22 @@ IShortcut.Invoke()    - Method invoked when user presses keyboard combination as
 
 - System.Diagnostics.TraceSource related stuff is good. But it hard to grasp all what/how/why of it without good guiding entering document.
 
-Goal/Intention/Action oriented with What/How/Why separations
+**Goal/Intention/Action oriented with What/How/Why separations**
 When I want to do something I search What can be used  - list of features and high level aspects.
 Then I want to do something quick to try via How.
 Then I rise questions or need clarification in Why.
 Steps can go any order, I have to be sure for ability to enter from any Doc cause there are several Linked docs different for What/How/Why.
 
-Simple/Complex or 20/80 separation 
+**Simple/Complex or 20/80 separation **
 Write down 20 of info about simple things, skip complex things until asked and write down into separate Doc.
 
-Drawing clarified
+**Drawing clarified**
 Diagrams may lead to ambiguity not clear without context. Write down exact step by step text what happens on diagram. Restate exactly the same via pretty picture. Not all in one, but several diagrams for different aspects.
 
-Executable if possible
+**Executable if possible**
 Unit tests, unit tests as Koans,  Automated Acceptance in Gherkin are preferred to other Docs, because this are not only docs but quality assurance of behavior and APIs.[6]
 
-Defined retention policy
+**Defined retention policy**
 If docs are just deleted after some time, this is bad.
 Bad example:
 -Much of docs stored in Issue Tracking system. Issue tracking is not scalable or used in not scalable way. Administrators just delete tail older then 1 year.
@@ -108,7 +129,7 @@ Symbols naming and organization
 Good names of classes, methods, namespaces and packages(assemblies) are the easiest means to ensure some documentations presented. Including hierarchical organization and structuring of namings. E.g. MyCompany.MyProduct.MyFeature.MyLayer. [11] [12]
 Choosing names are kind of TDD. TDD  improves code and adds executable documentations. Naming improves code navigation and sustainability of cohesion.
 
-Abbreviations and contractions.
+**Abbreviations and contractions.**
 Meanings of these must be searchable or well known by all.
 Not used as optimization until other options not evaluated.
 See also [10].
@@ -123,7 +144,7 @@ Bad:
 
 [10]
 
-Right tools
+**Right tools**
 Choose right language and tool to put something into mind of reader. There are tools for:
 - mind mapping [9]
 - concept mapping[8] [13]
@@ -133,18 +154,20 @@ Choose right language and tool to put something into mind of reader. There are t
 - web bookmarking
 - lists
 - zooming presentations [8]
+- stucture organization of you code to be tool able regarding documentation[14]
 
 Links
-[1] http://www.agilemodeling.com/essays/agileDocumentation.htm
-[2] http://www.icsharpcode.net/TechNotes/Commenting20020413.pdf
-[3] http://www.icsharpcode.net/TechNotes/TechnicalWriting20020325.pdf
-[4] http://www.cs.ubc.ca/~gregor/teaching/papers/4+1view-architecture.pdf
-[5] http://en.wikipedia.org/wiki/Enterprise_architecture_framework ("enterprise" here can be replaced with "open")
-[6] http://dannorth.net/introducing-bdd/
-[7] http://joshua.smcvt.edu/linearalgebra/book.pdf
-[8] http://vue.tufts.edu/
-[9] http://freemind.sourceforge.net/
-[10] http://msdn.microsoft.com/en-us/library/ms229045.aspx
-[11] http://refcardz.dzone.com/refcardz/designing-quality-software
-[12] http://msdn.microsoft.com/en-us/library/ms229026.aspx
-[13] http://cmap.ihmc.us/publications/researchpapers/theorycmaps/theoryunderlyingconceptmaps.htm
+[1]: http://www.agilemodeling.com/essays/agileDocumentation.htm
+[2]: http://www.icsharpcode.net/TechNotes/Commenting20020413.pdf
+[3]: http://www.icsharpcode.net/TechNotes/TechnicalWriting20020325.pdf
+[4]: http://www.cs.ubc.ca/~gregor/teaching/papers/4+1view-architecture.pdf
+[5]: http://en.wikipedia.org/wiki/Enterprise_architecture_framework ("enterprise" here can be replaced with "open")
+[6]: http://dannorth.net/introducing-bdd/
+[7]: http://joshua.smcvt.edu/linearalgebra/book.pdf
+[8]: http://vue.tufts.edu/
+[9]: http://freemind.sourceforge.net/
+[10]: http://msdn.microsoft.com/en-us/library/ms229045.aspx
+[11]: http://refcardz.dzone.com/refcardz/designing-quality-software
+[12]: http://msdn.microsoft.com/en-us/library/ms229026.aspx
+[13]: http://cmap.ihmc.us/publications/researchpapers/theorycmaps/theoryunderlyingconceptmaps.htm
+[14]: https://github.com/fsprojects/ProjectScaffold
