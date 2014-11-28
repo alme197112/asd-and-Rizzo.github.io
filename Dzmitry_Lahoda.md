@@ -17,7 +17,7 @@ Projects:
 [ERP, accounting and management software for law firms](http://thomsonreuters.com/3e/)
 ---
 
-Maintained client-server application framework, which has technical part dated back to 2004 and domain model dated back to 1994. Fixed bugs in: custom database oriented [IDE], GUI visualized out of XML, fault tolerant background task executions and notifications. Reverse engineering database.
+Maintained client-server application framework, which has technical part dated back to 2003 and domain model dated back to second half of 1990s. Fixed bugs in: custom database oriented [IDE], GUI visualized out of XML, fault tolerant background task executions and notifications. Reverse engineering database.
 
 *Position:* Lead Software Engineer, Contractor
 
@@ -52,7 +52,7 @@ Developed financial and productivity tools integrated with MS Office, developed 
 
 Open source
 ---
-`
+
 - <https://github.com/asd-and-Rizzo> 
 
 - <https://github.com/OpenSharp/>

@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>documenting-net-software-development</title>
+		<style>
+			/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+sup {
+   vertical-align: super;
+   font-size: smaller;
+}
+
+sub {
+  vertical-align: sub;
+  font-size: smaller;
+}
+
+/* Generic styles */
+body {
+	background: #f5f5f5;
+  color: #222;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6,
+ul, ol,
+p,
+code, pre,
+hr {
+	line-height: 1.2em;
+	margin: 1.0em 0 0.3em 0;
+}
+
+*:first-child {
+	margin-top: 0;
+}
+
+/* Headers */
+h1, h2, h3, h4, h5, h6 {
+	font-weight: bold;
+}
+
+h1 {
+	font-size: 2.0em;
+}
+
+h2 {
+	font-size: 1.7em;
+}
+
+h3 {
+	font-size: 1.5em;
+}
+
+h4 {
+	font-size: 1.3em
+}
+
+h5 {
+	font-size: 1.2em;
+}
+
+h6 {
+	font-size: 1em;
+}
+
+/* Lists */
+ul, ol {
+	padding-left: 2em;
+}
+
+ul {
+	list-style-type: disc;	
+}
+
+ol {
+	list-style-type: decimal;
+}
+
+/* Code and pre */
+code, pre {
+	font-family: "Bitstream Vera Sans Mono", "Courier", monospace;
+}
+code {
+	background: none repeat scroll 0 0 #F8F8FF;
+  border: 1px solid #DEDEDE;
+  border-radius: 3px 	;
+  padding: 0 0.2em;
+}
+pre {
+	border-left: 5px solid #eee;
+	margin-left: 2em;	
+	padding-left: 1em;
+}
+pre > code {
+	background: transparent;
+	border: none;
+	padding: 0;
+}
+
+/* Links */
+a {
+  color: #261A3B;
+}
+
+a:visited {
+  color: #261A3B;
+}
+
+/* Inlines */
+strong {
+	font-weight: bold;
+}
+
+em {
+	font-style: italic;
+}
+
+/* Container */
+.container {
+	background: #FFF;
+	padding: 30px 50px;
+	margin: 0 auto;
+	width: 850px;
+}
+
+		</style>
+	</head>
+	<body>
+		<div class="container">
+			<h1>How to write docs while developing .NET software </h1>
+
+<p>If you write good Code you write good Docs. If you write bad Docs you write bad Code. If you write bad Code you write bad Docs.</p>
+
+<p>Context
+There is no usual paper.  All  things digital. Paper Docs are dead.
+Economically efficient are open, transparent and crowd sourced  processes. Open/transparent/crowd sourced inside Enterprise or/and outside. Other kind of processes are efficient in rare cases.</p>
+
+<p>What
+Docs and Code are Digital Artifacts.
+Docs includes Code.
+Executable Code is executable Docs.
+Docs consist of symbols and images.
+Code consist of symbols.
+Symbols are organized into higher level structures.</p>
+
+<p>Properties
+Documentation has similar proprieties as executable Code text.</p>
+
+<p>Searchable 
+Target audience can find symbols via search engine.
+Not searchable Docs = Not existing Docs. Total waste.
+Bad:
+-Not indexed enterprise Software Control Management with *.doc files in it is waste. E.g. SVN not indexed by Elastic Search.
+-Not indexed email communication regarding requirements or design is waste. E.g. 3 email threads about the same thing instead.
+- CHM file uploaded into indexed location with not support for CHM, instead of convering CHM to PDF.
+Good:
+- Enterprise collaboration network usage
+- Public internet source repositories and public email.</p>
+
+<p>Linked
+Each Doc links with <code>See also</code> to other Docs.
+Good examples
+- Wikipedia
+- This book [7]. It links to itself, to other books. Exercises also link to creators of exercises. Source of book available in TeX files linked to each other.
+Bad examples:
+- Docs authored in long Word documents with all in one with friction full approach to updates and doc refactoring
+- Most conventional paper oriented books.
+- All books without free online versions because you cannot freely link into them inside your Docs for other to read.</p>
+
+<p>Always usable without "ToDo" noise
+No TBD (to be done), no ToDo in text. All such things replaced with one sentence maximally representing what should be unfolded when whole doc is written. Instead of TBD/ToDo phrase which allows guessing intent and makes doc to be always ready.
+Never DRAFT. Also can be marked DRAFT, but still valuable and valid.[1]</p>
+
+<p>Evolutionary
+Good doc starts from few lines of facts which written in 5 minutes but give much more of time saving for others. Then this facts are elaborated, surrounded with definitions, examples, spitted into several docs.</p>
+
+<p>Maintainable
+Any person can change and generate output of docs, with all revisions traceable.
+Bad examples:
+- Using proprietary software for drawing diagrams when use is not well grounded. This may prevent other people who have no this software from editing and viewing diagrams. May prevent from having Continuous Deployment sever from generating diagram images as part of build process.
+- Some kind of Wiki with friction full way of getting rights for its usage and or modification.
+Good examples:
+- Free diagramming software which suits needs to describe semantics event if it has not beautiful styles to pretty print.
+- Using Markdown or TeX text files committed into GIT sever with generation of published HTML or PDF as part of build process.
+- Latest C++ standard in GitHub in TeX form.</p>
+
+<p>Question oriented 
+If somebody going to ask highly anticipated question via private email or chat - write answer beforehand into searchable location. Convert questions and answers in private communication into part of documents.</p>
+
+<p>Targeted
+Use views and place views into place people habitat . Think of other people and write for them accordingly [4][5]</p>
+
+<p>Right place
+Search place where docs will be most visible. Write docs into classes, instead of docs.[2][3]
+Bad examples
+- Docs are not with code where most value would be provided
+In IShortcut.cs:
+/// <summary>
+///  Invokes shortcut
+/// </summary>
+void Invoke();</p>
+
+<p>Code contains crap shown to all developers in IDE.</p>
+
+<p>And then somewhere into docs:
+IShortcut.Invoke()    - Method invoked when user presses keyboard combination assigned to this shortcut.</p>
+
+<ul>
+<li>System.Diagnostics.TraceSource related stuff is good. But it hard to grasp all what/how/why of it without good guiding entering document.</li>
+</ul>
+
+<p>Goal/Intention/Action oriented with What/How/Why separations
+When I want to do something I search What can be used  - list of features and high level aspects.
+Then I want to do something quick to try via How.
+Then I rise questions or need clarification in Why.
+Steps can go any order, I have to be sure for ability to enter from any Doc cause there are several Linked docs different for What/How/Why.</p>
+
+<p>Simple/Complex or 20/80 separation 
+Write down 20 of info about simple things, skip complex things until asked and write down into separate Doc.</p>
+
+<p>Drawing clarified
+Diagrams may lead to ambiguity not clear without context. Write down exact step by step text what happens on diagram. Restate exactly the same via pretty picture. Not all in one, but several diagrams for different aspects.</p>
+
+<p>Executable if possible
+Unit tests, unit tests as Koans,  Automated Acceptance in Gherkin are preferred to other Docs, because this are not only docs but quality assurance of behavior and APIs.[6]</p>
+
+<p>Defined retention policy
+If docs are just deleted after some time, this is bad.
+Bad example:
+-Much of docs stored in Issue Tracking system. Issue tracking is not scalable or used in not scalable way. Administrators just delete tail older then 1 year.
+Good:
+- Collaboration system has archive button, doc is marked archived. Its fetching optimized.</p>
+
+<p>Symbols naming and organization
+Good names of classes, methods, namespaces and packages(assemblies) are the easiest means to ensure some documentations presented. Including hierarchical organization and structuring of namings. E.g. MyCompany.MyProduct.MyFeature.MyLayer. [11] [12]
+Choosing names are kind of TDD. TDD  improves code and adds executable documentations. Naming improves code navigation and sustainability of cohesion.</p>
+
+<p>Abbreviations and contractions.
+Meanings of these must be searchable or well known by all.
+Not used as optimization until other options not evaluated.
+See also [10].</p>
+
+<p>Good:
+- Optimize XML not by renaming MySymbol to MS, but via other options.  Try to reorganize XML structure. E.g. make MySymbol  attribute instead of element or reduce number of times MySymbol  is repeated by splitting out addition XML document sub part. Try to use binary serialization.
+- If still need to go with XML and replacing MySymbol  with MS, then do this declaratively, e.g. providing explicit dictionary which maps  MS &lt;-> MySymbol.
+Bad:
+- Contractions not documented.
+- Contractions provided instead of hierarchical context optimization. E.g. FwkWfsProcess instead of Framework.Workflows.Process.
+- Several different contractions. ProcessItemId is not contracted in one place, contracted to ProcItemId in another and to PIID in third one.</p>
+
+<p>[10]</p>
+
+<p>Right tools
+Choose right language and tool to put something into mind of reader. There are tools for:
+- mind mapping [9]
+- concept mapping[8] [13]
+- collaborative Wiki and ideas discussion
+- version control systems
+- diagramming
+- web bookmarking
+- lists
+- zooming presentations [8]</p>
+
+<p>Links
+[1] http://www.agilemodeling.com/essays/agileDocumentation.htm
+[2] http://www.icsharpcode.net/TechNotes/Commenting20020413.pdf
+[3] http://www.icsharpcode.net/TechNotes/TechnicalWriting20020325.pdf
+[4] http://www.cs.ubc.ca/~gregor/teaching/papers/4+1view-architecture.pdf
+[5] http://en.wikipedia.org/wiki/Enterprise<em>architecture</em>framework ("enterprise" here can be replaced with "open")
+[6] http://dannorth.net/introducing-bdd/
+[7] http://joshua.smcvt.edu/linearalgebra/book.pdf
+[8] http://vue.tufts.edu/
+[9] http://freemind.sourceforge.net/
+[10] http://msdn.microsoft.com/en-us/library/ms229045.aspx
+[11] http://refcardz.dzone.com/refcardz/designing-quality-software
+[12] http://msdn.microsoft.com/en-us/library/ms229026.aspx
+[13] http://cmap.ihmc.us/publications/researchpapers/theorycmaps/theoryunderlyingconceptmaps.htm</p>
+		</div>
+
+		<script></script>
+	</body>
+</html>
