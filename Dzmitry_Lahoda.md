@@ -17,7 +17,7 @@ Projects:
 [ERP, accounting and management software for law firms](http://thomsonreuters.com/3e/)
 ---
 
-Maintained client-server application framework, which has technical part dated back to 2003 and domain model dated back to second half of 1990s. Fixed bugs in: custom database oriented [IDE], GUI visualized out of XML, fault tolerant background task executions and notifications. Reverse engineering database.
+Maintained client-server application framework, which has technical part dated back to 2003 and domain model dated back to second half of 1990s. Fixed bugs in: custom database oriented [IDE],custom [ORM], GUI visualized out of XML, fault tolerant background task executions and notifications. Reverse engineering database.
 
 *Position:* Lead Software Engineer, Contractor
 
@@ -243,7 +243,7 @@ I learn math, algorithms and models of nature. I have driver licence type "B". M
 [IDE]: http://en.wikipedia.org/wiki/Integrated_development_environment
 [cancel cells animation]: https://www.google.com/search?q=asd.and.Rizzo+cancer&oq=asd.and.Rizzo+cancer
 [VUE]: http://vue.tufts.edu/
-
+[ORM]: https://en.wikipedia.org/wiki/Object-relational_mapping
 
 
 
