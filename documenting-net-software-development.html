@@ -229,116 +229,170 @@ em {
 
 <p><strong>Linked</strong></p>
 
-<p>Each Doc links with <code>See also</code> and reference to other Docs.</p>
+<p>Each Doc links with <code>See also</code> and reference and tags and catetorirs to other Docs. Documents are piecemeal.</p>
 
-<p>Good examples
-- Wikipedia
-- This book <a href="http://joshua.smcvt.edu/linearalgebra/book.pdf">7</a>. It links to itself, to other books. Exercises also link to creators of exercises. Source of book available in TeX files linked to each other.
-Bad examples:
-- Docs authored in long Word documents with all in one with friction full approach to updates and doc refactoring
-- Most conventional paper oriented books.
-- All books without free online versions because you cannot freely link into them inside your Docs for other to read.</p>
+<p><em>Good examples:</em></p>
 
-<p><strong>Always usable without "ToDo" noise</strong>
-No TBD (to be done), no ToDo in text. All such things replaced with one sentence maximally representing what should be unfolded when whole doc is written. Instead of TBD/ToDo phrase which allows guessing intent and makes doc to be always ready.
-Never DRAFT. Also can be marked DRAFT, but still valuable and valid.<a href="http://www.agilemodeling.com/essays/agileDocumentation.htm">1</a></p>
+<ul>
+<li><p>Wikipedia</p></li>
+<li><p>This book <a href="http://joshua.smcvt.edu/linearalgebra/book.pdf">7</a>. It links to itself, to other books. Exercises also link to creators of exercises. Source of book available in TeX files linked to each other.
+Bad examples:</p></li>
+<li><p>Docs authored in long Word documents with all in one with friction full approach to updates and doc refactoring</p></li>
+<li><p>Most conventional paper oriented books.</p></li>
+<li><p>All books without free online versions because you cannot freely link into them inside your Docs for other to read.</p></li>
+</ul>
+
+<p><strong>Always usable without "ToDo" noise</strong></p>
+
+<ul>
+<li><p>No TBD (to be done), no ToDo in text. All such things replaced with one sentence maximally representing what should be unfolded when whole doc is written. Instead of TBD/ToDo phrase which allows guessing intent and makes doc to be always ready.</p></li>
+<li><p>Never DRAFT. Also can be marked DRAFT, but still valuable and valid.<a href="http://www.agilemodeling.com/essays/agileDocumentation.htm">1</a></p></li>
+</ul>
 
 <p><strong>Evolutionary</strong>
-Good doc starts from few lines of facts which written in 5 minutes but give much more of time saving for others. Then this facts are elaborated, surrounded with definitions, examples, spitted into several docs.</p>
+- Good doc starts from few lines of facts which written in 5 minutes but give much more of time saving for others. Then this facts are elaborated, surrounded with definitions, examples, spitted into several docs.</p>
 
-<p><strong>Maintainable</strong>
-Any person can change and generate output of docs, with all revisions traceable.
-Bad examples:
-- Using proprietary software for drawing diagrams when use is not well grounded. This may prevent other people who have no this software from editing and viewing diagrams. May prevent from having Continuous Deployment sever from generating diagram images as part of build process.
-- Some kind of Wiki with friction full way of getting rights for its usage and or modification.
-Good examples:
-- Free diagramming software which suits needs to describe semantics event if it has not beautiful styles to pretty print.
-- Using Markdown or TeX text files committed into GIT sever with generation of published HTML or PDF as part of build process.
-- Latest C++ standard in GitHub in TeX form.</p>
+<p><strong>Maintainable</strong></p>
 
-<p>Question oriented 
-If somebody going to ask highly anticipated question via private email or chat - write answer beforehand into searchable location. Convert questions and answers in private communication into part of documents.</p>
+<p>Any person can change and generate output of docs, with all revisions traceable. <code>Change</code> means no need to request rights to edit document, but editing will create fork of document with possibility to do merge changes back in main one.</p>
+
+<p><em>Bad examples:</em></p>
+
+<ul>
+<li><p>Using proprietary software for drawing diagrams when use is not well grounded. This may prevent other people who have no this software from editing and viewing diagrams. May prevent from having Continuous Deployment sever from generating diagram images as part of build process.</p></li>
+<li><p>Some kind of Wiki with friction full way of getting rights for its usage and or modification.
+Good examples:</p></li>
+<li><p>Free diagramming software which suits needs to describe semantics event if it has not beautiful styles to pretty print.</p></li>
+<li><p>Using Markdown or TeX text files committed into GIT sever with generation of published HTML or 
+PDF as part of build process.</p></li>
+<li><p>Latest C++ standard in GitHub in TeX form.</p></li>
+</ul>
+
+<p><em>*Question oriented *</em></p>
+
+<p>If somebody going to ask highly anticipated question via private email or chat - write answer beforehand into searchable location. Convert questions and answers in private communication into part of documents.</p>
 
 <p><strong>Targeted</strong>
 Use views and place views into place people habitat . Think of other people and write for them accordingly <a href="http://en.wikipedia.org/wiki/Enterprise_architecture_framework" title="&quot;enterprise&quot; here can be replaced with &quot;open&quot;">4</a></p>
 
 <ul>
-<li>QA or Support oriented docs should not cotains</li>
+<li>QA or Support oriented docs should not different content then Developers, may be overlapping 20% of info, but common parts produced as separate linked documents.</li>
 </ul>
 
-<p><strong>Right place</strong>
-Search place where docs will be most visible. Write docs into classes, instead of docs.<a href="http://www.icsharpcode.net/TechNotes/TechnicalWriting20020325.pdf">2</a>
-Bad examples
-- Docs are not with code where most value would be provided
-In IShortcut.cs:
-/// <summary>
+<p><strong>Right place</strong></p>
+
+<p>Search place where docs will be most visible. Write docs into classes, instead of docs.<a href="http://www.icsharpcode.net/TechNotes/TechnicalWriting20020325.pdf">2</a></p>
+
+<p><em>Bad examples:</em></p>
+
+<ul>
+<li>Docs are not with code where most value would be provided. E.g. in <code>IShortcut.cs</code>:</li>
+</ul>
+
+<p><code>charp
+/// &lt;summary&gt;
 ///  Invokes shortcut
-/// </summary>
-void Invoke();</p>
+/// &lt;/summary&gt;
+void Invoke();
+</code></p>
 
 <p>Code contains crap shown to all developers in IDE.</p>
 
 <p>And then somewhere into docs:
-IShortcut.Invoke()    - Method invoked when user presses keyboard combination assigned to this shortcut.</p>
+<code>charp
+IShortcut.Invoke()    - Method invoked when user presses keyboard combination assigned to this shortcut.
+</code></p>
 
 <ul>
-<li>System.Diagnostics.TraceSource related stuff is good. But it hard to grasp all what/how/why of it without good guiding entering document.</li>
+<li><code>System.Diagnostics.TraceSource</code> related stuff is good. But it hard to grasp all what/how/why of it without good guiding entering document.</li>
 </ul>
 
-<p><strong>Goal/Intention/Action oriented with What/How/Why separations</strong>
-When I want to do something I search What can be used  - list of features and high level aspects.
-Then I want to do something quick to try via How.
-Then I rise questions or need clarification in Why.
-Steps can go any order, I have to be sure for ability to enter from any Doc cause there are several Linked docs different for What/How/Why.</p>
+<p><strong>Goal/Intention/Action oriented with What/How/Why separations</strong></p>
 
-<p><em>*Simple/Complex or 20/80 separation *</em>
-Write down 20 of info about simple things, skip complex things until asked and write down into separate Doc.</p>
+<ul>
+<li><p>When I want to do something I search What can be used  - list of features and high level aspects.</p></li>
+<li><p>Then I want to do something quick to try via How.</p></li>
+<li><p>Then I rise questions or need clarification in Why.</p></li>
+<li><p>Steps can go any order, I have to be sure for ability to enter from any Doc cause there are several Linked docs different for What/How/Why.</p></li>
+</ul>
 
-<p><strong>Drawing clarified</strong>
-Diagrams may lead to ambiguity not clear without context. Write down exact step by step text what happens on diagram. Restate exactly the same via pretty picture. Not all in one, but several diagrams for different aspects.</p>
+<p><em>*Simple/Complex or 20/80 separation *</em></p>
 
-<p><strong>Executable if possible</strong>
-Unit tests, unit tests as Koans,  Automated Acceptance in Gherkin are preferred to other Docs, because this are not only docs but quality assurance of behavior and APIs.<a href="http://dannorth.net/introducing-bdd/">6</a></p>
+<ul>
+<li>Write down 20 of info about simple things, skip complex things until asked and write down into separate Doc.</li>
+</ul>
 
-<p><strong>Defined retention policy</strong>
-If docs are just deleted after some time, this is bad.
-Bad example:
--Much of docs stored in Issue Tracking system. Issue tracking is not scalable or used in not scalable way. Administrators just delete tail older then 1 year.
-Good:
-- Collaboration system has archive button, doc is marked archived. Its fetching optimized.</p>
+<p><strong>Drawing clarified</strong></p>
 
-<p>Symbols naming and organization
-Good names of classes, methods, namespaces and packages(assemblies) are the easiest means to ensure some documentations presented. Including hierarchical organization and structuring of namings. E.g. MyCompany.MyProduct.MyFeature.MyLayer. <a href="http://msdn.microsoft.com/en-us/library/ms229026.aspx">11</a>
-Choosing names are kind of TDD. TDD  improves code and adds executable documentations. Naming improves code navigation and sustainability of cohesion.</p>
+<ul>
+<li>Diagrams may lead to ambiguity not clear without context. Write down exact step by step text what happens on diagram. Restate exactly the same via pretty picture. Not all in one, but several diagrams for different aspects.</li>
+</ul>
 
-<p><strong>Abbreviations and contractions.</strong>
-Meanings of these must be searchable or well known by all.
-Not used as optimization until other options not evaluated.
-See also <a href="http://msdn.microsoft.com/en-us/library/ms229045.aspx">10</a>.</p>
+<p><strong>Executable if possible</strong></p>
 
-<p>Good:
-- Optimize XML not by renaming MySymbol to MS, but via other options.  Try to reorganize XML structure. E.g. make MySymbol  attribute instead of element or reduce number of times MySymbol  is repeated by splitting out addition XML document sub part. Try to use binary serialization.
-- If still need to go with XML and replacing MySymbol  with MS, then do this declaratively, e.g. providing explicit dictionary which maps  MS &lt;-> MySymbol.
-Bad:
-- Contractions not documented.
-- Contractions provided instead of hierarchical context optimization. E.g. FwkWfsProcess instead of Framework.Workflows.Process.
-- Several different contractions. ProcessItemId is not contracted in one place, contracted to ProcItemId in another and to PIID in third one.</p>
+<ul>
+<li>Unit tests, unit tests as Koans,  Automated Acceptance in Gherkin are preferred to other Docs, because this are not only docs but quality assurance of behavior and APIs.<a href="http://dannorth.net/introducing-bdd/">6</a></li>
+</ul>
 
-<p><a href="http://msdn.microsoft.com/en-us/library/ms229045.aspx">10</a></p>
+<p><strong>Defined retention policy</strong></p>
+
+<p>If docs are just deleted after some time, this is bad.</p>
+
+<p><em>Bad example:</em></p>
+
+<p>-Much of docs stored in Issue Tracking system. Issue tracking is not scalable or used in not scalable way. Administrators just delete tail older then 1 year.</p>
+
+<p><em>Good:</em></p>
+
+<ul>
+<li>Collaboration system has archive button, doc is marked archived. Its fetching optimized.</li>
+</ul>
+
+<p><strong>Symbols naming and organization</strong></p>
+
+<p>Good names of classes, methods, namespaces and packages(assemblies) are the easiest means to ensure some documentations presented. Including hierarchical organization and structuring of namings. E.g. MyCompany.MyProduct.MyFeature.MyLayer. <a href="http://msdn.microsoft.com/en-us/library/ms229026.aspx">11</a></p>
+
+<p>Choosing names are kind of TDD. TDD  improves code and adds executable documentations. Naming improves code navigation and sustainability of cohesion.</p>
+
+<p><strong>Abbreviations and contractions.</strong></p>
+
+<p>Meanings of these must be searchable or well known by all.</p>
+
+<p>Not used as optimization until other options not evaluated.</p>
+
+<p>See also <a href="http://msdn.microsoft.com/en-us/library/ms229045.aspx">10</a>.</p>
+
+<p><em>Good:</em></p>
+
+<ul>
+<li><p>Optimize XML not by renaming MySymbol to MS, but via other options.  Try to reorganize XML structure. E.g. make MySymbol  attribute instead of element or reduce number of times MySymbol  is repeated by splitting out addition XML document sub part. Try to use binary serialization.</p></li>
+<li><p>If still need to go with XML and replacing MySymbol  with MS, then do this declaratively, e.g. providing explicit dictionary which maps  MS &lt;-> MySymbol.</p></li>
+</ul>
+
+<p><em>Bad:</em></p>
+
+<ul>
+<li><p>Contractions not documented.</p></li>
+<li><p>Contractions provided instead of hierarchical context optimization. E.g. FwkWfsProcess instead of Framework.Workflows.Process.</p></li>
+<li><p>Several different contractions. ProcessItemId is not contracted in one place, contracted to ProcItemId in another and to PIID in third one.<a href="http://msdn.microsoft.com/en-us/library/ms229045.aspx">10</a></p></li>
+</ul>
 
 <p><strong>Right tools</strong>
-Choose right language and tool to put something into mind of reader. There are tools for:
-- mind mapping <a href="http://freemind.sourceforge.net/">9</a>
-- concept mapping<a href="http://cmap.ihmc.us/publications/researchpapers/theorycmaps/theoryunderlyingconceptmaps.htm">8</a>
-- collaborative Wiki and ideas discussion
-- version control systems
-- diagramming
-- web bookmarking
-- lists
-- zooming presentations <a href="http://vue.tufts.edu/">8</a>
-- stucture organization of you code to be tool able regarding documentation<a href="https://github.com/fsprojects/ProjectScaffold">14</a></p>
+Choose right language and tool to put something into mind of reader. There are tools for:</p>
 
-<p>Links</p>
+<ul>
+<li><p>mind mapping <a href="http://freemind.sourceforge.net/">9</a></p></li>
+<li><p>concept mapping<a href="http://cmap.ihmc.us/publications/researchpapers/theorycmaps/theoryunderlyingconceptmaps.htm">8</a></p></li>
+<li><p>collaborative Wiki and ideas discussion</p></li>
+<li><p>version control systems</p></li>
+<li><p>diagramming</p></li>
+<li><p>web bookmarking</p></li>
+<li><p>lists</p></li>
+<li><p>zooming presentations <a href="http://vue.tufts.edu/">8</a></p></li>
+<li><p>structure organization of you code to be tool able regarding documentation<a href="https://github.com/fsprojects/ProjectScaffold">14</a></p></li>
+<li><p>document authoring, revision and collaboration tool (e.g. git based text editing)</p></li>
+<li><p>good document authoring language</p></li>
+</ul>
 		</div>
 
 		<script></script>

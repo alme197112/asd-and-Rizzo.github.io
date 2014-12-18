@@ -4,7 +4,7 @@ TFS
 
 [TFS] with Team Foundation Version Control is unintuitive (I used GIT and SVN and was happy), unlogical and not consistent.
 
-Here is list of issues (VS 2010 and TFS 2013):
+Here is list of issues (VS 2012 and TFS 2013):
 
 - On check in it shows that there are merge conflicts even if I do not check in conflicted files. Conflicted file onlu one - MySolution.sln, which I have different local. It becomes different right after VS open for some reason.
 
@@ -29,6 +29,8 @@ If people are OK with it than it indicated bad process of development around.
 - TFS was payed for, but takes to much time to workaround, same I do when use open source tools.
 
 - Other issue related to history of check ins, changes made by check-in , work estimates are also unintuitive/broken.
+
+- When I Check in on solution in solution explorer it checkins all files, but when I view history on this, then history is shown only of *.sln file. Experienced first, I expected history of solution will include history of files of this solution either.
 
 [TFS]: https://en.wikipedia.org/wiki/Team_Foundation_Server
 

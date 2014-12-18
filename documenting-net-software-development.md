@@ -77,7 +77,7 @@ Bad examples:
 
 **Maintainable**
 
-Any person can change and generate output of docs, with all revisions traceable.
+Any person can change and generate output of docs, with all revisions traceable. `Change` means no need to request rights to edit document, but editing will create fork of document with possibility to do merge changes back in main one.
 
 *Bad examples:*
 
@@ -108,9 +108,9 @@ Search place where docs will be most visible. Write docs into classes, instead o
 
 *Bad examples:*
 
-- Docs are not with code where most value would be provided. E.g. in IShortcut.cs:
+- Docs are not with code where most value would be provided. E.g. in `IShortcut.cs`:
 
-```
+```charp
 /// <summary>
 ///  Invokes shortcut
 /// </summary>
@@ -120,26 +120,33 @@ void Invoke();
 Code contains crap shown to all developers in IDE.
 
 And then somewhere into docs:
-```
+```charp
 IShortcut.Invoke()    - Method invoked when user presses keyboard combination assigned to this shortcut.
 ```
 
-- System.Diagnostics.TraceSource related stuff is good. But it hard to grasp all what/how/why of it without good guiding entering document.
+- `System.Diagnostics.TraceSource` related stuff is good. But it hard to grasp all what/how/why of it without good guiding entering document.
 
 **Goal/Intention/Action oriented with What/How/Why separations**
 
 - When I want to do something I search What can be used  - list of features and high level aspects.
+
 - Then I want to do something quick to try via How.
+
 - Then I rise questions or need clarification in Why.
+
 - Steps can go any order, I have to be sure for ability to enter from any Doc cause there are several Linked docs different for What/How/Why.
 
-**Simple/Complex or 20/80 separation **
+
+**Simple/Complex or 20/80 separation**
+
 - Write down 20 of info about simple things, skip complex things until asked and write down into separate Doc.
 
 **Drawing clarified**
+
 - Diagrams may lead to ambiguity not clear without context. Write down exact step by step text what happens on diagram. Restate exactly the same via pretty picture. Not all in one, but several diagrams for different aspects.
 
 **Executable if possible**
+
 - Unit tests, unit tests as Koans,  Automated Acceptance in Gherkin are preferred to other Docs, because this are not only docs but quality assurance of behavior and APIs.[6]
 
 **Defined retention policy**
@@ -202,6 +209,10 @@ Choose right language and tool to put something into mind of reader. There are t
 - zooming presentations [8]
 
 - structure organization of you code to be tool able regarding documentation[14]
+
+- document authoring, revision and collaboration tool (e.g. git based text editing)
+
+- good document authoring language
 
 [1]: http://www.agilemodeling.com/essays/agileDocumentation.htm
 [2]: http://www.icsharpcode.net/TechNotes/Commenting20020413.pdf
