@@ -33,3 +33,10 @@ At any rate, I'll take this opportunity to say thank you for your continuing sup
 
 But please continue to feel free to use Rufus without any guilt about not contributing for it financially – you should never have to!
 ```
+
+
+[VirtualDub](http://www.virtualdub.org/donation.html)
+```
+Thank you for your interest in donating
+I have decided to stop accepting donations as I haven't been able to devote as much time as I'd like to my projects and money is not my main motivator or a problem when working on them. In any case, thank you to everyone who donated during the time that I had this link up. To those who were considering donating funds, there are other equally helpful ways to contribute, such as filing bug reports and participating on forums.
+```
