@@ -5,6 +5,9 @@ This list contains some way to avoid donations when you develop open source soft
 >Where can I make a monetary donation to FreeMind?
 >Currently, we do not accept any monetary donations. --Danielpolansky 00:32, 21 Nov 2005 (PST)
 
+These people go as far as neglecting [very often requested feature by users as Donate button](https://sourceforge.net/p/freemind/search/?q=donate+OR+donation).
+
+
 [Workwave](http://www.workrave.org/documentation/faq/#i-really-like-your-software-do-you-accept-donations)
 >I really like your software, do you accept donations?
 >I am glad that you like our software. We appreciate any donations, however, we prefer donations on a meta-level. Meaning, instead of donating directly to us, free software authors, we feel it is a better idea to donate to a foundation that ensures that the conditions amongst which free software can flourish remain valid.
