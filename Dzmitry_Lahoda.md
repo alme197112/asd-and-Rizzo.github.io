@@ -8,7 +8,7 @@
 
 I create software, deliver correct and intuitive functional and code in time, produce sustainable digital artifacts. I know many techs and use many tools, developed software frameworks and reusable libraries. Experienced in open source, .NET (with internals targeting unmanaged code integration and custom frameworks development), Windows, technical documentation authoring. In order to be effective and efficient I tune my thoughts, tools and actions continuously. Computer user since 1993, write programs since 2004, work in big companies since 2010, self learner since childhood. Applied machine learning is my interest, used against music.  Proponent and practitioner of automation, machines should do work instead of humans, like: software generation,testing and deployment; information search and suggestion.
 
-**Projects**,I have been involved, and **Education/Knowledge**,I have obtained, enumerations are outlined according next [scheme](cv_item_stucture.html). 
+**Projects**,I have been involved, and **Education/Knowledge**,I have obtained, are outlined according next [scheme](cv_item_stucture.html). 
 
 
 Projects:
