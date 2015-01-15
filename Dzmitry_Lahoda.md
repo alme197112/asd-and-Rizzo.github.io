@@ -6,7 +6,7 @@
 
 *Location:* Belarus, Minsk
 
-I create software, deliver correct and intuitive functional and code in time, produce sustainable digital artifacts. I know many techs and use many tools, developed software frameworks and reusable libraries. Experienced in open source, .NET (with internals targeting unmanaged code integration and custom frameworks development), Windows, technical documentation authoring. In order to be effective and efficient I tune my thoughts, tools and actions continuously. Computer user since 1993, write programs since 2004, work in big companies since 2010, self learner since childhood. Applied machine learning is my interest, used against music.  Proponent and practitioner of automation, machines should do work instead of humans, like: software testing and deployment, information search and suggestion.
+I create software, deliver correct and intuitive functional and code in time, produce sustainable digital artifacts. I know many techs and use many tools, developed software frameworks and reusable libraries. Experienced in open source, .NET (with internals targeting unmanaged code integration and custom frameworks development), Windows, technical documentation authoring. In order to be effective and efficient I tune my thoughts, tools and actions continuously. Computer user since 1993, write programs since 2004, work in big companies since 2010, self learner since childhood. Applied machine learning is my interest, used against music.  Proponent and practitioner of automation, machines should do work instead of humans, like: software generation,testing and deployment; information search and suggestion.
 
 **Projects**,I have been involved, and **Education/Knowledge**,I have obtained, enumerations are outlined according next [scheme](cv_item_stucture.html). 
 
@@ -17,7 +17,7 @@ Projects:
 [ERP, accounting and management software for law firms](http://thomsonreuters.com/3e/)
 ---
 
-Maintained client-server application framework, which has technical part dated back to 2003 and domain model dated back to second half of 1990s. Fixed bugs in: custom database oriented [IDE],custom [ORM], GUI visualized out of XML, fault tolerant background task executions and notifications. Reverse engineering database.
+Maintained client-server application framework, which has technical part dated back to 2003 and previous implementation dated back to second half of 1990s. Fixed bugs in: custom database oriented [IDE],custom [ORM], GUI visualized out of XML, fault tolerant background task executions and notifications. Reverse engineering database.
 
 *Position:* Lead Software Engineer, Contractor
 
@@ -55,17 +55,10 @@ Open source
 
 - <https://github.com/asd-and-Rizzo> 
 
-- <https://github.com/OpenSharp/>
-
-- <https://www.ohloh.net/accounts/Dzmitry_Lahoda> 
-
 - <https://gitorious.org/~asd-and-rizzo>
 
-- <https://www.codeplex.com/site/users/view/asdandRizzo>
 
-- <https://code.google.com/p/jen-ikvm-api/>
-
-Contains different project and researchlets. Long term open sources outlined more fully as separate items.
+Contains various projects and researchlets I did or participated. Long term open sources outlined more fully as separate items. Also I participate in different open source projects communication threads, raise issues, suggest changes.
 
 *Used:* C#, .NET, C, code generation(T4 text templates,custom), F#, linear algebra, Octave, Rust, IKVM, git, Windows, XAML, XML, HTTP client, WPF, scripting, Linux, Python, COM,  C++
 
