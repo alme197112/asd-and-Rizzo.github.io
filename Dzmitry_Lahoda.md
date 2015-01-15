@@ -58,7 +58,7 @@ Open source
 - <https://gitorious.org/~asd-and-rizzo>
 
 
-Contains various projects and researchlets I did or participated. Long term open sources outlined more fully as separate items. Also I participate in different open source projects communication threads, raise issues, suggest changes.
+Contains various projects and researchlets I did or participated. Long term open sources outlined more fully as separate items. Also I participate in different open source projects communication threads, raise issues, suggest changes, do donations.
 
 *Used:* C#, .NET, C, code generation(T4 text templates,custom), F#, linear algebra, Octave, Rust, IKVM, git, Windows, XAML, XML, HTTP client, WPF, scripting, Linux, Python, COM,  C++
 
