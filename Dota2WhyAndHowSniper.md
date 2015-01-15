@@ -20,6 +20,22 @@ I loose often, and has little time to train, unlike others.
 
 I think that there are many more pleasant actions in life, ruther then Dota 2. 
 
+Sharpnell is tactic tool should be like artirelly preparation before battle and mostly never throw during, cause Snipe should should when battle is.
+
+Sharpnell may sum to 3 cast in a row. Sniper may stop whole team from killing 3rd protector near barrackes if throw 2 cast one after other and 3rd if any will get to tree.
+
+Sharpnell is good to spy, e.g. for enemy team kill Roshan - they even may afraid and run:).
+
+
+Invisibility  counts 
+
+Riki - 3
+Klinz - 2
+Sombody god bod shadow blade - 1
+
+If you team has 3 for invisbilti coutn it may be not so good idea to by shadow Blade.
+
+
  
 
 
