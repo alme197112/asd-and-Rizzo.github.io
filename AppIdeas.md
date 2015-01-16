@@ -11,3 +11,4 @@
 - write HTTP2 server on Rust, write HTML5 framework+templating engine with support for RDFa
 - Yandex Market voter automation - if I got X and X was terrible means that all 4-5 feedback marks where lie, and 1-2 true - hence automate Yes/No press for each feedback to act of hate easilty
 - Search dublicates of music or image or video
+- Algorithm which identifies if video "correctly rotated"
