@@ -31,6 +31,8 @@ Can do reactos.org with next tags "os" "software" "open source" enhanced like:
 - "os":is:"software"
 - licensed:"open source"
 
+- nuget.codeplex.com is source code of hosted nuget.org. I want mark them as binded antity so if I applied to one "donated" then other gets "donated" either
+
 Kind of structured bookmars, first part is used for complex interfaces, other part to show simple.
 
 See cmap.ihmc.us/Publications/ResearchPapers/TheoryCmaps/TheoryUnderlyingConceptMaps.htm
