@@ -5,58 +5,58 @@ My list of non material motivators. Plus is motivator. Minus is demotivator.
 
 What source repository is used?
 
-- tfs 
+* tfs - - -
 
-+ git 
+* git +
 
-How far database/server from my working place?
+How far  from my working place database/server/virtual machine I have to use is?
 
-+ near (in terms of time or in terms of speed of access)
+* near (in terms of time or in terms of speed of access) +
 
-- far (e.g. database is very big and slow remotely)
+* far (e.g. database is very big and slow remotely) -
 
-What open source tools/libraries you use?
+How many open source tools/libraries are in use? Is feedback done? Is `open core` model used?
 
-+ many
+* many and yes + + +
 
-- none
+* none -
 
-Who are technical leads of you project? 
+Who are technical leads of you project? How technical (technical here is use of modern information sharing mediums and knowledge of logic) managers/customers are?
 
-+ he is public person (blog, github, etc.)
+* these are public person with blogs, github, up to date linkedin, social bookmarking profiles, etc.  +
 
-- I cannot find any valuable info about him in the internet
+* I cannot find any valuable info about him in the internet -
 
-Do you do automate everything/BDD/DDD?
+Does  process go with automate everything/BDD/DDD?
 
-+++ yes
+* yes + + + 
 
---- no
+* no - - - 
 
-Do you do math/logic/types/stats?
+Does work involve math/logic/types/statistics?
 
-+ yes
+* yes +
 
-- no
+* no -
 
 
-What is workstation+table+chair?
+What is workstation/table/chair?
 
-+ cool
+* cool (fast SSD RAID workstation or I given money to upgrade my own, aeron chair) +
 
-- average
+* average - -
 
 Work remotely sometimes?
 
-+ yes
+* yes +
 
-- no
+* no -
 
-Leave without pay any day?
+Random illness or leave without pay any day up to 3 days?
 
-+ yes
+* yes +
 
-- no
+* no -
 
 
 
