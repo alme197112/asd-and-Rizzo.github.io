@@ -7,10 +7,10 @@ Context
 ---
 
 - There is no usual paper. 
-- All  things digital. Paper Docs are dead.
-- Economically efficient are open, transparent and crowd sourced processes. 
+- All things digital. Paper Docs are dead.
+- Economically efficient are open, transparent, crowd sourced and continious processes. 
 - Open/transparent/crowd sourced inside Enterprise or/and outside. 
-- Other kind of processes are efficient in rare cases.
+- Other kind of processes are efficient in very rare cases.
 
 
 What
@@ -142,17 +142,17 @@ IShortcut.Invoke()    - Method invoked when user presses keyboard combination as
 - Steps can go any order, I have to be sure for ability to enter from any Doc cause there are several Linked docs different for What/How/Why.
 
 
-#### At least 2 level documentation.
+**2 and more levels of documentation**
 
 Source code should not only written self descritive, but its should be documented yet enother time via:
 
-- semantically meaningful documentation to mebers of class
+- semantically meaningful documentation to code functions
 
-- static depenncy stuctured revealed by analysys tools for static type langauges
+- static dependecny stucture revealed by analysys tools for static type langauges
 
-- unit test or integratin tests
+- unit test or integration tests
 
-**Examples**
+*Examples*
 
 - E.g. script file doing some simple job to automated deployment process is bad. Each such script file should contain header with description of why and what script does. Such scripts are not target for static dependecy analisys or automated testing.
 
