@@ -211,7 +211,8 @@ See also [10].
 - Several different contractions. ProcessItemId is not contracted in one place, contracted to ProcItemId in another and to PIID in third one.[10]
 
 **Right tools**
-Choose right language and tool to put something into mind of reader. There are tools for:
+
+Choose right language and tool to put something into mind of reader and help writer. There are tools for:
 
 - mind [9] and concept mapping[8] [13]
 
