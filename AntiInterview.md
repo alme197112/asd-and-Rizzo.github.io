@@ -58,5 +58,7 @@ Random illness or leave without pay any day up to 3 days?
 
 * no -
 
+How "secured" environment is?  
+
 
 

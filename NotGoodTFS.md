@@ -64,6 +64,8 @@ I have to translate this formats when working with Outlook messages and TFS item
  
 - tf.exe does not allows to create second workspace targeting same TFS collections. I need this because if I map several branches onto local folders VS becomes very very slow on any operation with version control. And there is no official Nuget TFS client assemblies to automate TFS via .NET language easily.
 
+- There is no means to copy old code in Diff if it intermingles with new.
+
 [TFS]: https://en.wikipedia.org/wiki/Team_Foundation_Server
 
 
