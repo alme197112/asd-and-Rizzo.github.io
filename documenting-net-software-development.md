@@ -7,14 +7,15 @@ Context
 ---
 
 - There is no usual paper. 
-- All  things digital. Paper Docs are dead.
-- Economically efficient are open, transparent and crowd sourced processes. 
+- All things digital. Paper Docs are dead.
+- Economically efficient are open, transparent, crowd sourced and continious processes. 
 - Open/transparent/crowd sourced inside Enterprise or/and outside. 
-- Other kind of processes are efficient in rare cases.
+- Other kind of processes are efficient in very rare cases.
 
 
 What
 ---
+
 -Docs and Code are Digital Artifacts.
 -Docs includes Code.
 -Executable Code is executable Docs.
@@ -104,7 +105,11 @@ Use views and place views into place people habitat . Think of other people and 
 
 **Right place**
 
-Search place where docs will be most visible. Write docs into classes, instead of docs.[2][3]
+Search place where docs will be most visible. 
+
+Write docs into code, instead of docs when possible.[2][3] Put documented interface of code as docs into public.
+
+Write from outer goals to inner specificaiton[17] and vice versa[18].
 
 *Bad examples:*
 
@@ -119,7 +124,7 @@ void Invoke();
 
 Code contains crap shown to all developers in IDE.
 
-And then somewhere into docs:
+And then somewhere into docs in some `*.docx` put into version control system:
 ```charp
 IShortcut.Invoke()    - Method invoked when user presses keyboard combination assigned to this shortcut.
 ```
@@ -137,17 +142,17 @@ IShortcut.Invoke()    - Method invoked when user presses keyboard combination as
 - Steps can go any order, I have to be sure for ability to enter from any Doc cause there are several Linked docs different for What/How/Why.
 
 
-#### At least 2 level documentation.
+**2 and more levels of documentation**
 
 Source code should not only written self descritive, but its should be documented yet enother time via:
 
-- semantically meaningful documentation to mebers of class
+- semantically meaningful documentation to code functions
 
-- static depenncy stuctured revealed by analysys tools for static type langauges
+- static dependecny stucture revealed by analysys tools for static type langauges
 
-- unit test or integratin tests
+- unit test or integration tests
 
-**Examples**
+*Examples*
 
 - E.g. script file doing some simple job to automated deployment process is bad. Each such script file should contain header with description of why and what script does. Such scripts are not target for static dependecy analisys or automated testing.
 
@@ -163,7 +168,7 @@ Source code should not only written self descritive, but its should be documente
 
 **Executable if possible**
 
-- Unit tests, unit tests as Koans,  Automated Acceptance in Gherkin are preferred to other Docs, because this are not only docs but quality assurance of behavior and APIs.[6]
+- Unit tests, unit tests as Koans,  Automated Acceptance in Gherkin are preferred to other Docs, because this are not only docs but quality assurance of behavior and APIs.[6][15]
 
 **Defined retention policy**
 
@@ -206,11 +211,10 @@ See also [10].
 - Several different contractions. ProcessItemId is not contracted in one place, contracted to ProcItemId in another and to PIID in third one.[10]
 
 **Right tools**
-Choose right language and tool to put something into mind of reader. There are tools for:
 
-- mind mapping [9]
+Choose right language and tool to put something into mind of reader and help writer. There are tools for:
 
-- concept mapping[8] [13]
+- mind [9] and concept mapping[8] [13]
 
 - collaborative Wiki and ideas discussion
 
@@ -218,15 +222,15 @@ Choose right language and tool to put something into mind of reader. There are t
 
 - diagramming
 
-- web bookmarking
+- track roles, depedencies and times[16]
 
-- lists
+- web bookmarking and lists
 
 - zooming presentations [8]
 
 - structure organization of you code to be tool able regarding documentation[14]
 
-- document authoring, revision and collaboration tool (e.g. git based text editing)
+- document authoring, revision and collaboration tool (e.g. git based text editing with web view)
 
 - good document authoring language
 
@@ -244,3 +248,7 @@ Choose right language and tool to put something into mind of reader. There are t
 [12]: http://msdn.microsoft.com/en-us/library/ms229026.aspx
 [13]: http://cmap.ihmc.us/publications/researchpapers/theorycmaps/theoryunderlyingconceptmaps.htm
 [14]: https://github.com/fsprojects/ProjectScaffold
+[15]: http://dannorth.net/whats-in-a-story/
+[16]: http://www.projectlibre.org/
+[17]: http://www.infoq.com/news/2015/02/introducing-bdd
+[18]: http://www.infoq.com/minibooks/domain-driven-design-quickly

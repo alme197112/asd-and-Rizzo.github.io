@@ -5,13 +5,13 @@ My list of non material motivators. Plus is motivator. Minus is demotivator.
 
 What source repository is used?
 
-* tfs - - -
+* tfs - - -, any with proprietary core -
 
 * git +
 
 How far  from my working place database/server/virtual machine I have to use is?
 
-* near (in terms of time or in terms of speed of access) +
+* near (high throughput and low latency) +
 
 * far (e.g. database is very big and slow remotely) -
 
