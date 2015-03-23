@@ -1,12 +1,10 @@
-*E-mail/Google Hangouts:*  <Dzmitry.Lahoda@gmail.com>
+*E-mail*  <Dzmitry.Lahoda@gmail.com>
 
 *Phone1:*  +375255318270
 
 *Phone2:*  +375299195188
 
-*Skype:*  asd.and.Rizzo (Dzmitry Lahoda)
+*Firefox Hello:*  [dzmitry.lahoda@gmail.com](https://hello.firefox.com/5Yp4ENMtIpA)
 
-*Encrypted (PGP,OTR):*  <Dzmitry.Lahoda.pgp@gmail.com>
-
-*Communication public key :*  <Dzmitry.Lahoda.pgp_pub.asc>
+*Communication public key :*  [Dzmitry.Lahoda.asc](Dzmitry.Lahoda.asc)
 

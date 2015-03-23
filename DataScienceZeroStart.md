@@ -11,6 +11,7 @@ Starting course is https://www.coursera.org/course/datascitoolbox . It it not go
 
 Then it is possible to grab data query classes(SQL via https://class.stanford.edu/courses/DB/2014/SelfPaced/about) or Python or more high level Data Science (https://www.coursera.org/course/datasci , has very cool SQL) or JavaScript(may appear to be good to deliver Data Science into live environment and do interactive visualizations - not web sites, may try https://www.khanacademy.org/computing/computer-programming ).
 
+Learn and recall some hardcore Statistics and Probability (free there courses and books on internet).
 
 Ensure there are jobs for Data Science for you. Next are from Belarus:
 
@@ -31,7 +32,7 @@ Ensure you have resume:
 - writing experience(e.g. diploma thesis or blog, actually Data Science is about producing reports to make people believe in you arguments).
 - Outline any management experiences (e.g. you lead several persons to do business with you, management in Data Science has some common with common management).
 
-Learn and recall some hardcore Statistics and Probability (free there courses and books on internet).
+
 
 Go real as soon as possible via thing like  https://www.kaggle.com . Check from time to time when you able to do some.
 
