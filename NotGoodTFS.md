@@ -66,6 +66,8 @@ I have to translate this formats when working with Outlook messages and TFS item
 
 - There is no means to copy old code in Diff if it intermingles with new.
 
+- TFS is integerated into shell, but has no icon. Git and Svn has - so easy to find menu entry.
+
 [TFS]: https://en.wikipedia.org/wiki/Team_Foundation_Server
 
 

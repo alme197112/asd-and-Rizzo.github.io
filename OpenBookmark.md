@@ -55,3 +55,15 @@ When root bookmark changes, I got notified, so can apply/merge/cancel my changes
 
 I can break the link not to get any notifications.
 
+**Aspect descriptions**
+
+E.g. if I want to tag shop with what it is about and a describe my feedback about it. I want to fields different for these.
+
+**Partial mark**
+
+desktop.telegram.org - "donated"
+
+telegram.org - "todonate"
+
+Because desktop is under telegram it somehow should be connected.
+

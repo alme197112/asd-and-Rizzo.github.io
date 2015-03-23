@@ -57,7 +57,7 @@ Open source
 
 - <https://github.com/asd-and-Rizzo> 
 
-- <https://gitorious.org/~asd-and-rizzo>
+- <https://gitlab.com/u/dzmitry-lahoda>
 
 
 Contains various projects and researchlets I did or participated. Long term open sources outlined more fully as separate items. Also I participate in different open source projects communication threads, raise issues, suggest changes, do donations.
