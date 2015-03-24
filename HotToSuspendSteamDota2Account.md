@@ -1,4 +1,4 @@
-
+Wanna stop playing Dota 2? But cannot? I show you the way.
 
 
 It is impossible to delete Dota 2 or Steam account.
