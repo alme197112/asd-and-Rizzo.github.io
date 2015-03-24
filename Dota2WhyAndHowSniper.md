@@ -1,6 +1,8 @@
 
 Dota 2 is game. It has human playable hero Sniper. I used to play as different heroes since 2006 (than it was Dota 1). And ended playing only as Sniper hero, only single hero and kind of end playing at all (except cases to support party).
 
+[If you want to stop play Dota 2 and any steam for several month](HotToSuspendSteamDota2Account.md)
+
 **Why sniper**
 
 
