@@ -8,7 +8,7 @@ Context
 
 - There is no usual paper. 
 - All things digital. Paper Docs are dead.
-- Economically efficient are open, transparent, crowd sourced and continious processes. 
+- Economically efficient are open, transparent, crowd sourced and continuous processes, or like. 
 - Open/transparent/crowd sourced inside Enterprise or/and outside. 
 - Other kind of processes are efficient in very rare cases.
 
@@ -51,7 +51,9 @@ Not searchable Docs = Not existing Docs. Total waste.
 
 **Linked**
 
-Each Doc links with `See also` and reference and tags and catetorirs to other Docs. Documents are piecemeal.
+Each Doc links with `See also` and reference and tags and categories to other Docs. Documents are piecemeal.
+
+Each Doc links level up and down.
 
 *Good examples:*
 
@@ -66,6 +68,7 @@ Bad examples:
 
 - All books without free online versions because you cannot freely link into them inside your Docs for other to read.
 
+- Reference documentaion leads directly to code. E.g. [19] archive related build system API documentation links directly  into git repo code where you read what code does if comment is not enough. Same may be done for closed source but links jump to disassembly.
 
 **Always usable without "ToDo" noise**
 
@@ -210,6 +213,9 @@ See also [10].
 
 - Several different contractions. ProcessItemId is not contracted in one place, contracted to ProcItemId in another and to PIID in third one.[10]
 
+
+
+
 **Right tools**
 
 Choose right language and tool to put something into mind of reader and help writer. There are tools for:
@@ -252,3 +258,4 @@ Choose right language and tool to put something into mind of reader and help wri
 [16]: http://www.projectlibre.org/
 [17]: http://www.infoq.com/news/2015/02/introducing-bdd
 [18]: http://www.infoq.com/minibooks/domain-driven-design-quickly
+[19]: http://fsharp.github.io/FAKE/apidocs/fake-archivehelper.html
