@@ -68,7 +68,7 @@ Bad examples:
 
 - All books without free online versions because you cannot freely link into them inside your Docs for other to read.
 
-- Reference documentaion leads directly to code. E.g. [19] archive related build system API documentation links directly  into git repo code where you read what code does if comment is not enough. Same may be done for closed source but links jump to disassembly.
+- Reference documentation leads directly to code. E.g. [19] archive related build system API documentation links directly  into git repo code where you read what code does if comment is not enough. Same may be done for closed source but links jump to disassembly.
 
 **Always usable without "ToDo" noise**
 
@@ -81,7 +81,8 @@ Bad examples:
 
 **Maintainable**
 
-Any person can change and generate output of docs, with all revisions traceable. `Change` means no need to request rights to edit document, but editing will create fork of document with possibility to do merge changes back in main one.
+Any person can change and generate output of docs, with all revisions traceable. 
+`Change` means no need to request rights to edit document, but editing will create fork of document with possibility to do merge changes back in main one.
 
 *Bad examples:*
 
@@ -112,7 +113,7 @@ Search place where docs will be most visible.
 
 Write docs into code, instead of docs when possible.[2][3] Put documented interface of code as docs into public.
 
-Write from outer goals to inner specificaiton[17] and vice versa[18].
+Write from outer goals to inner specification[17] and vice versa[18].
 
 *Bad examples:*
 
@@ -147,17 +148,17 @@ IShortcut.Invoke()    - Method invoked when user presses keyboard combination as
 
 **2 and more levels of documentation**
 
-Source code should not only written self descritive, but its should be documented yet enother time via:
+Source code should not only written self descriptive, but its should be documented yet another time via:
 
 - semantically meaningful documentation to code functions
 
-- static dependecny stucture revealed by analysys tools for static type langauges
+- static dependency structure revealed by analysis tools for static type languages
 
 - unit test or integration tests
 
 *Examples*
 
-- E.g. script file doing some simple job to automated deployment process is bad. Each such script file should contain header with description of why and what script does. Such scripts are not target for static dependecy analisys or automated testing.
+- E.g. script file doing some simple job to automated deployment process is bad withoyt doc header. Each such script file should contain header with description of why and what script does. Such scripts are not target for static dependency analysis or automated testing.
 
  
 
@@ -218,7 +219,9 @@ See also [10].
 
 **Right tools**
 
-Choose right language and tool to put something into mind of reader and help writer. There are tools for:
+Right tools are open source or free to deploy. So build servers and developers are free to build and change docs. Who needs doc if reader and user have to buy license to view and change?
+
+Choose right language and tool to put something into mind of reader and help writer. Choose tools any can install and deploy anywhere. 
 
 - mind [9] and concept mapping[8] [13]
 
@@ -226,7 +229,7 @@ Choose right language and tool to put something into mind of reader and help wri
 
 - version control systems
 
-- diagramming
+- diagramming [20]
 
 - track roles, depedencies and times[16]
 
@@ -259,3 +262,4 @@ Choose right language and tool to put something into mind of reader and help wri
 [17]: http://www.infoq.com/news/2015/02/introducing-bdd
 [18]: http://www.infoq.com/minibooks/domain-driven-design-quickly
 [19]: http://fsharp.github.io/FAKE/apidocs/fake-archivehelper.html
+[20]: http://plantuml.sourceforge.net/
