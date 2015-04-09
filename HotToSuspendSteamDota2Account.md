@@ -24,4 +24,5 @@ Try next steps to suspend you account for next several month:
 
 Do not bother to play Dota 2 for next several month.
 
+I send letters to support to restore my account email back. No result. May steam from 
  
