@@ -243,6 +243,9 @@ Choose right language and tool to put something into mind of reader and help wri
 
 - good document authoring language
 
+**See also**
+[21]
+
 [1]: http://www.agilemodeling.com/essays/agileDocumentation.htm
 [2]: http://www.icsharpcode.net/TechNotes/Commenting20020413.pdf
 [3]: http://www.icsharpcode.net/TechNotes/TechnicalWriting20020325.pdf
@@ -263,3 +266,4 @@ Choose right language and tool to put something into mind of reader and help wri
 [18]: http://www.infoq.com/minibooks/domain-driven-design-quickly
 [19]: http://fsharp.github.io/FAKE/apidocs/fake-archivehelper.html
 [20]: http://plantuml.sourceforge.net/
+[21]: http://www.infoq.com/articles/practices-lean-documentation
