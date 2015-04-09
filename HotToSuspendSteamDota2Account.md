@@ -1,4 +1,4 @@
-
+Wanna stop playing Dota 2? But cannot? I show you the way.
 
 
 It is impossible to delete Dota 2 or Steam account.
@@ -24,5 +24,8 @@ Try next steps to suspend you account for next several month:
 
 Do not bother to play Dota 2 for next several month.
 
-I send letters to support to restore my account email back. No result. May steam from 
- 
+I messenged support to restore back my email, but no result. Not sure why, but may steam from any reason like I never spent a penny on Steam, my messages where unclear or I sent to wrong support.
+
+Also there are points of failure, what if used online services has bug or go down? With these account will not be restored, but I hope this will not happen.
+
+
