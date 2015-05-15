@@ -74,3 +74,11 @@ Documentaion?
 
 * Big stale Word files and Visio diagrams TFS - - - -
 * Agile and Lean documentation + + +  (http://www.infoq.com/articles/practices-lean-documentation, https://github.com/asd-and-Rizzo/asd-and-Rizzo.github.io/blob/master/documenting-net-software-development.md)
+
+Agile?
+
+* Misses many points mentioned and usually Scrum  - - -
+* Includes many points mentioned and Kanban + + +
+
+
+
