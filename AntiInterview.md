@@ -69,3 +69,8 @@ How "secure" environment is?
 * I have to use hadware token + VPN + several passwords changed every month to work with all parts of system - - -
 
 * Deep security touches only what really matters, for all other software private key and 1-2 stable passwords are OK + + +
+
+Documentaion?
+
+* Big stale Word files and Visio diagrams TFS - - - -
+* Agile and Lean documentation + + +  (http://www.infoq.com/articles/practices-lean-documentation, https://github.com/asd-and-Rizzo/asd-and-Rizzo.github.io/blob/master/documenting-net-software-development.md)
