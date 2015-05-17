@@ -1,12 +1,7 @@
 This list contains some way to avoid donations when you develop open source software.
 
-
-[FreeMind](http://freemind.sourceforge.net/wiki/index.php/Asked_questions#Where_can_I_make_a_monetary_donation_to_FreeMind.3F)
->Where can I make a monetary donation to FreeMind?
->Currently, we do not accept any monetary donations. --Danielpolansky 00:32, 21 Nov 2005 (PST)
-
-These people go as far as neglecting [very often requested feature by users as Donate button](https://sourceforge.net/p/freemind/search/?q=donate+OR+donation).
-
+Right:
+---
 
 [Workwave](http://www.workrave.org/documentation/faq/#i-really-like-your-software-do-you-accept-donations)
 >I really like your software, do you accept donations?
@@ -30,10 +25,37 @@ These people go as far as neglecting [very often requested feature by users as D
 
 >At any rate, I'll take this opportunity to say thank you for your continuing support and enthusiasm about this little program: it is much appreciated!
 
->But please continue to feel free to use Rufus without any guilt about not contributing for it financially – you should never have to!
+>But please continue to feel free to use Rufus without any guilt about not contributing for it financially â€“ you should never have to!
 
+Wrong:
+---
 
 [VirtualDub](http://www.virtualdub.org/donation.html)
 >Thank you for your interest in donating
 >I have decided to stop accepting donations as I haven't been able to devote as much time as I'd like to my projects and money is not my main motivator or a problem when working on them. In any case, thank you to everyone who donated during the time that I had this link up. To those who were considering donating funds, there are other equally helpful ways to contribute, such as filing bug reports and participating on forums.
 
+[FreeMind](http://freemind.sourceforge.net/wiki/index.php/Asked_questions#Where_can_I_make_a_monetary_donation_to_FreeMind.3F)
+>Where can I make a monetary donation to FreeMind?
+>Currently, we do not accept any monetary donations. --Danielpolansky 00:32, 21 Nov 2005 (PST)
+
+These people go as far as neglecting [very often requested feature by users as Donate button](https://sourceforge.net/p/freemind/search/?q=donate+OR+donation).
+
+
+```
+Donation obligates to do something. 
+```
+Until specified, donation is just  Thanks for what already done.
+
+
+```
+I do not need donation I have enough money. 
+```
+
+```
+Donation are to small to do something.
+```
+
+```
+I cannot receive donation because of complexity electoring money and taxation system
+```
+Route donation to somthing that matter then or use system like BitCoin
