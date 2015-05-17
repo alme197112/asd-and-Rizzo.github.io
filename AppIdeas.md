@@ -33,11 +33,6 @@
 
 - write down app for local organization list with maps and adding of new entities
 
-- write diigo to some open bookmark converter and to markdown exporter 
-
-- 
-
-
 
 
 

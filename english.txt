@@ -385,3 +385,4 @@ rapture - восторг, экстаз
 chastised - наказанный
 tamer - дресировщик
 layoff - уврольнение
+propencity - Склонность

@@ -20,6 +20,8 @@ I want bookmark this as one item but 2 links.
 
 The same for mobile version of Youtube. Or several url for desktop youtube but with different semantics.
 
+http://reactos.org and https://reactos.org shoyld be suggested as same was added.
+
 **Hooks**
 
 I mark learned words in Google translate. Hook into web app and remark into OB.
@@ -57,7 +59,9 @@ I can break the link not to get any notifications.
 
 **Aspect descriptions**
 
-E.g. if I want to tag shop with what it is about and a describe my feedback about it. I want to fields different for these.
+I want to tag shop with what it is about and a describe my feedback about it. I want to fields different for these.
+
+E.g. I have default description text and tag `shop`, but when I add tag "feedback" I got eat antother entry text box.
 
 **Partial mark**
 

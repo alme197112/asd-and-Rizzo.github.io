@@ -39,4 +39,12 @@ Solution
 Mix of *-sourcings if way to go.
 
 
+xsourced company 
+---
+
+
+xsourced data
+---
+
+
 [1]: http://tom.preston-werner.com/2011/11/22/open-source-everything.html

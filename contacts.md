@@ -4,9 +4,11 @@
 
 *Phone2:*  +375299195188
 
-*Telegram:* dzmitry_lahoda or Phone2
+*Telegram:* dzmitry_lahoda or Phone1
 
-*Firefox Hello:*  [dzmitry.lahoda@gmail.com](https://hello.firefox.com/5Yp4ENMtIpA)
+*Firefox Hello:*  start room and send link via any of of previous
 
 *Communication public key :*  [Dzmitry.Lahoda.asc](Dzmitry.Lahoda.asc)
+
+*Skype*: asd.and.Rizzo 
 

@@ -68,6 +68,8 @@ I have to translate this formats when working with Outlook messages and TFS item
 
 - TFS is integerated into shell, but has no icon. Git and Svn has - so easy to find menu entry.
 
+- We have team. They create many shelvesets and submit these to reviewer in other team, creating big unmergable big ball of mood. Shelveset hell. In git we do fork for team with several branches for features team works. Commits and pushes are done, back merges from mainline. When it time to review by external team these are given branch with cohesive already merged feature.
+
 [TFS]: https://en.wikipedia.org/wiki/Team_Foundation_Server
 
 
