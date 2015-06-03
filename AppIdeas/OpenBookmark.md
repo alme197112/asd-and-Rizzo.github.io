@@ -20,7 +20,7 @@ I want bookmark this as one item but 2 links.
 
 The same for mobile version of Youtube. Or several url for desktop youtube but with different semantics.
 
-http://reactos.org and https://reactos.org shoyld be suggested as same was added.
+http://reactos.org and https://reactos.org or http://www.nunit.org/ and http://nunit.org/ and http://nunit.org should be suggested as same was added.
 
 **Hooks**
 
