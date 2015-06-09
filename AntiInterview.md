@@ -80,5 +80,9 @@ Agile?
 * Misses many points mentioned and usually Scrum  - - -
 * Includes many points mentioned and Kanban + + +
 
+How much of custom virtual global variables needed to be initialized boot developed application or subsytem?
+* 7 or more ----
+* 3 +
+
 
 
