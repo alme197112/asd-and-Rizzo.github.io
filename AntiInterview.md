@@ -85,4 +85,6 @@ How much of custom virtual global variables needed to be initialized boot develo
 * 3 +
 
 
+How you company grows or project grows? What are my perspectives regarding finances and stability? 
+
 
