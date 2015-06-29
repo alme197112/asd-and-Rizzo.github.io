@@ -30,6 +30,7 @@ Sharpnell is good to spy, e.g. for enemy team kill Roshan - they even may afraid
 
 
 Invisibility  counts 
+--- 
 
 Riki - 3
 Klinz - 2
@@ -37,7 +38,7 @@ Sombody god bod shadow blade - 1
 
 If you team has 3 for invisbilti coutn it may be not so good idea to by shadow Blade.
 
-
+Agains Phantom Assassin  with Butterfly should Monkey King Bar to aboid misses.
  
 
 

@@ -29,7 +29,7 @@ Fixed bugs in: custom database oriented [IDE],custom [ORM], GUI visualized out o
 
 *Used:* MS SQL, IIS, XML, VB.NET, TFS, Silverlight, Cisco WebEx, [VUE], FitNesse
 
-*Duration:* 07.07.2014-now
+*Duration:* 07.07.2014-20.04.2014
 
 
 MS Office financial add ins suite: [Advanced Analytics](http://thomsonreuters.com/products_services/financial/financial_products/a-z/advanced_analytics) and [Eikon for Office](https://thomsonreuterseikon.com/blog/exploit-analytical-presentational-potential-thomson-reuters-eikon-microsoft-office-add)
@@ -226,7 +226,7 @@ Languages
 Other
 ---
 
-I learn math, algorithms and models of nature. I have driver licence type "B". Married with Maryna Lahoda, PhD. I do work on [next mobile workstation](http://valid.canardpc.com/2639433). I was born in 1988 year AD. I do not -  drink alcohol,  read/listen/watch fiction texts/films; except rare cases. I listen non fiction audio books. I do yoga. Learning to cook simple and healthy food. I believe in (politically, religiously): openness, transparency, science. Can find me in internet via [next query](http://www.google.com.by/search?hl=be&q=asdandRizzo+OR+%22asd.and.Rizzo%22+OR+%22asd-and-Rizzo%22+OR+%22asd_and_Rizzo%22+OR+%22Dzmitry+Lahoda%E2%80%9D+OR+%22dzmitry.lahoda%22&btnG=%D0%A8%D1%83%D0%BA%D0%B0%D1%86%D1%8C&meta).
+I learn math, algorithms and models of nature. I have driver licence type "B". Married with Maryna Lahoda, PhD. I do work on [next mobile workstation](MyWorkstation.md). I was born in 1988 year AD. I do not -  drink alcohol,  read/listen/watch fiction texts/films; except rare cases. I listen non fiction audio books. I do yoga. Learning to cook simple and healthy food. I believe in (politically, religiously): openness, transparency, science. Can find me in internet via [next query](http://www.google.com.by/search?hl=be&q=asdandRizzo+OR+%22asd.and.Rizzo%22+OR+%22asd-and-Rizzo%22+OR+%22asd_and_Rizzo%22+OR+%22Dzmitry+Lahoda%E2%80%9D+OR+%22dzmitry.lahoda%22&btnG=%D0%A8%D1%83%D0%BA%D0%B0%D1%86%D1%8C&meta).
 
 [Contacts]: contacts.html "Contacts"
 [IPC]: https://en.wikipedia.org/wiki/Inter-process_communication "IPC"

@@ -9,3 +9,5 @@ I am not sure how I ended up with Chrome on my computer
 
 but I cannot report just this - should answer many question. So I do not report real problem at all.
 
+
+- I cannot apload SVG file from which I generated icon as high resolution icon which is required.

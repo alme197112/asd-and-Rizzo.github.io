@@ -47,4 +47,15 @@ xsourced data
 ---
 
 
+Except bussines models[2[ using opne source, there are other human related issues:
+
+- if open source is liked by other develoers, then your developers are good
+
+- if one developer lefts, you can hire other developer who already uses open part of your codebase
+
+- etc.
+
+
+
 [1]: http://tom.preston-werner.com/2011/11/22/open-source-everything.html
+[2]: https://en.wikipedia.org/wiki/Business_models_for_open-source_software

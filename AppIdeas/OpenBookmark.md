@@ -61,7 +61,9 @@ I can break the link not to get any notifications.
 
 I want to tag shop with what it is about and a describe my feedback about it. I want to fields different for these.
 
-E.g. I have default description text and tag `shop`, but when I add tag "feedback" I got eat antother entry text box.
+E.g. I have default description text and tag `shop`, but when I add tag "feedback" I got eat another entry text box.
+
+E.g. I share bookmark pointing to book with student. He responses back with "is suitable" feedback.
 
 **Partial mark**
 
@@ -70,4 +72,9 @@ desktop.telegram.org - "donated"
 telegram.org - "todonate"
 
 Because desktop is under telegram it somehow should be connected.
+
+**Accessibility**
+
+Machine translation is must.
+
 
