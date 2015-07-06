@@ -29,3 +29,5 @@ lux - свет
 fec - нести
 est - есть
 id - то
+frater - brother
+cidium - murder

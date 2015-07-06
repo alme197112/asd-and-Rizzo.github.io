@@ -14,7 +14,7 @@ I create software, deliver correct and intuitive functional and code in time, pr
 Projects:
 ===
 
-[ERP, accounting and management software for mid and large law firms](http://thomsonreuters.com/3e/)
+[Accounting and management software for mid and large law firms](http://thomsonreuters.com/3e/)
 ---
 
 Maintained client-server application framework, which has technical part dated back to 2003 and previous implementation dated back to second half of 1990s. 
@@ -27,7 +27,7 @@ Fixed bugs in: custom database oriented [IDE],custom [ORM], GUI visualized out o
 
 *Organization:* [EPAM Systems] service for [Thomson Reuters]
 
-*Used:* MS SQL, IIS, XML, VB.NET, TFS, Silverlight, Cisco WebEx, [VUE], FitNesse
+*Used:* MS SQL 2008+, IIS, XML, VB.NET, TFS, Silverlight 5.1, FitNesse, Cisco WebEx, [VUE]
 
 *Duration:* 07.07.2014-20.04.2014
 
