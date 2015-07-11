@@ -386,3 +386,4 @@ chastised - наказанный
 tamer - дресировщик
 layoff - уврольнение
 propencity - Склонность
+housewarming - новоселье

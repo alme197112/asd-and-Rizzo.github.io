@@ -1,17 +1,17 @@
-<!-- Tufts VUE 3.2.2 concept-map (ASP.NET MVC.vue) 2015-05-04 -->
+<!-- Tufts VUE 3.2.2 concept-map (ASP.NET MVC.vue) 2015-07-11 -->
 <!-- Tufts VUE: http://vue.tufts.edu/ -->
 <!-- Do Not Remove: VUE mapping @version(1.1) jar:file:/C:/Program%20Files%20(x86)/VUE/VUE.jar!/tufts/vue/resources/lw_mapping_1_1.xml -->
-<!-- Do Not Remove: Saved date Mon May 04 06:41:27 BRT 2015 by dzmitry_lahoda on platform Windows 8 6.2 in JVM 1.7.0_21-b11 -->
+<!-- Do Not Remove: Saved date Sat Jul 11 08:22:02 BRT 2015 by Dzmitry_Lahoda on platform Windows 7 6.1 in JVM 1.7.0_21-b11 -->
 <!-- Do Not Remove: Saving version @(#)VUE: built May 23 2013 at 2146 by tomadm on Linux 2.6.18-348.2.1.el5 i386 JVM 1.7.0_21-b11(bits=32) -->
 <?xml version="1.0" encoding="US-ASCII"?>
 <LW-MAP xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="none" ID="0" label="ASP.NET MVC.vue"
     created="1430394434447" x="0.0" y="0.0" width="1.4E-45"
     height="1.4E-45" strokeWidth="0.0" autoSized="false">
-    <resource referenceCreated="1430732487244" size="15058"
-        spec="I:\src\asd-and-Rizzo.github.io\ASP.NET MVC.vue" type="1" xsi:type="URLResource">
+    <resource referenceCreated="1436613722702" size="15068"
+        spec="W:\src\asd-and-Rizzo.github.io\ASP.NET MVC.vue" type="1" xsi:type="URLResource">
         <title>ASP.NET MVC.vue</title>
-        <property key="File" value="I:\src\asd-and-Rizzo.github.io\ASP.NET MVC.vue"/>
+        <property key="File" value="W:\src\asd-and-Rizzo.github.io\ASP.NET MVC.vue"/>
     </resource>
     <fillColor>#FFFFFF</fillColor>
     <strokeColor>#404040</strokeColor>
@@ -26,19 +26,19 @@
         <font>SansSerif-plain-14</font>
         <URIString>http://vue.tufts.edu/rdf/resource/0a8b767ac0a83801006bc3f82f69add6</URIString>
         <richText>&lt;html&gt;
-  &lt;head color="#000000" style="color: #000000"&gt;
+  &lt;head style="color: #000000" color="#000000"&gt;
     &lt;style type="text/css"&gt;
       &lt;!--
-        body { font-size: 13; margin-right: 0px; margin-left: 0px; color: #000000; margin-top: 0px; font-family: Arial; margin-bottom: 0px }
-        ol { font-size: 13; vertical-align: middle; margin-left: 30; margin-top: 6; font-family: Arial; list-style-position: outside }
-        p { margin-right: 0; margin-left: 0; color: #000000; margin-top: 0; margin-bottom: 0 }
-        ul { font-size: 13; vertical-align: middle; margin-left: 30; margin-top: 6; font-family: Arial; list-style-position: outside }
+        body { margin-bottom: 0px; color: #000000; font-size: 13; font-family: Arial; margin-right: 0px; margin-left: 0px; margin-top: 0px }
+        ol { font-size: 13; vertical-align: middle; font-family: Arial; margin-left: 30; margin-top: 6; list-style-position: outside }
+        p { margin-bottom: 0; color: #000000; margin-right: 0; margin-left: 0; margin-top: 0 }
+        ul { font-size: 13; vertical-align: middle; font-family: Arial; margin-left: 30; margin-top: 6; list-style-position: outside }
       --&gt;
     &lt;/style&gt;
     
   &lt;/head&gt;
   &lt;body&gt;
-    &lt;p color="#000000" style="color: #000000"&gt;
+    &lt;p style="color: #000000" color="#000000"&gt;
       http://www.microsoftvirtualacademy.com/training-courses/introduction-to-asp-net-mvc
     &lt;/p&gt;
   &lt;/body&gt;
@@ -47,7 +47,7 @@
         <label>New Text</label>
     </child>
     <child ID="7" label="Sites" layerID="1" created="1430397727052"
-        x="354.0" y="191.0" width="183.0" height="40.0"
+        x="342.83658" y="194.34901" width="183.0" height="40.0"
         strokeWidth="1.0" autoSized="false" xsi:type="node">
         <fillColor>#F1A83E</fillColor>
         <strokeColor>#000000</strokeColor>
@@ -57,7 +57,7 @@
         <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
     </child>
     <child ID="9" label="Web Forms" layerID="1" created="1430397737521"
-        x="302.0" y="269.0" width="174.0" height="40.0"
+        x="316.51242" y="277.93073" width="174.0" height="40.0"
         strokeWidth="1.0" autoSized="false" xsi:type="node">
         <fillColor>#F1A83E</fillColor>
         <strokeColor>#000000</strokeColor>
@@ -67,7 +67,7 @@
         <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
     </child>
     <child ID="10" label="Services" layerID="1" created="1430397748803"
-        x="543.0" y="192.0" width="232.0" height="41.0"
+        x="601.0498" y="190.88365" width="232.0" height="41.0"
         strokeWidth="1.0" autoSized="false" xsi:type="node">
         <fillColor>#F1A83E</fillColor>
         <strokeColor>#000000</strokeColor>
@@ -77,7 +77,7 @@
         <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
     </child>
     <child ID="8" label="Web Pages" layerID="1" created="1430397734765"
-        x="482.0" y="266.0" width="148.0" height="49.0"
+        x="496.51245" y="279.39612" width="148.0" height="49.0"
         strokeWidth="1.0" autoSized="false" xsi:type="node">
         <fillColor>#F1A83E</fillColor>
         <strokeColor>#000000</strokeColor>
@@ -275,6 +275,6 @@
     </PathwayList>
     <date>2015-04-30</date>
     <modelVersion>6</modelVersion>
-    <saveLocation>I:\src\asd-and-Rizzo.github.io</saveLocation>
-    <saveFile>I:\src\asd-and-Rizzo.github.io\ASP.NET MVC.vue</saveFile>
+    <saveLocation>W:\src\asd-and-Rizzo.github.io</saveLocation>
+    <saveFile>W:\src\asd-and-Rizzo.github.io\ASP.NET MVC.vue</saveFile>
 </LW-MAP>

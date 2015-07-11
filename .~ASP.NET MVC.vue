@@ -1,17 +1,17 @@
-<!-- Tufts VUE 3.2.2 concept-map (ASP.NET MVC.vue) 2015-05-04 -->
+<!-- Tufts VUE 3.2.2 concept-map (ASP.NET MVC.vue) 2015-07-08 -->
 <!-- Tufts VUE: http://vue.tufts.edu/ -->
 <!-- Do Not Remove: VUE mapping @version(1.1) jar:file:/C:/Program%20Files%20(x86)/VUE/VUE.jar!/tufts/vue/resources/lw_mapping_1_1.xml -->
-<!-- Do Not Remove: Saved date Mon May 04 06:39:46 BRT 2015 by dzmitry_lahoda on platform Windows 8 6.2 in JVM 1.7.0_21-b11 -->
+<!-- Do Not Remove: Saved date Wed Jul 08 18:15:44 BRT 2015 by Dzmitry_Lahoda on platform Windows 7 6.1 in JVM 1.7.0_21-b11 -->
 <!-- Do Not Remove: Saving version @(#)VUE: built May 23 2013 at 2146 by tomadm on Linux 2.6.18-348.2.1.el5 i386 JVM 1.7.0_21-b11(bits=32) -->
 <?xml version="1.0" encoding="US-ASCII"?>
 <LW-MAP xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="none" ID="0" label="ASP.NET MVC.vue"
     created="1430394434447" x="0.0" y="0.0" width="1.4E-45"
     height="1.4E-45" strokeWidth="0.0" autoSized="false">
-    <resource referenceCreated="1430732386420" size="15028"
-        spec="I:\src\asd-and-Rizzo.github.io\ASP.NET MVC.vue" type="1" xsi:type="URLResource">
+    <resource referenceCreated="1436390145058" size="15068"
+        spec="W:\src\asd-and-Rizzo.github.io\ASP.NET MVC.vue" type="1" xsi:type="URLResource">
         <title>ASP.NET MVC.vue</title>
-        <property key="File" value="I:\src\asd-and-Rizzo.github.io\ASP.NET MVC.vue"/>
+        <property key="File" value="W:\src\asd-and-Rizzo.github.io\ASP.NET MVC.vue"/>
     </resource>
     <fillColor>#FFFFFF</fillColor>
     <strokeColor>#404040</strokeColor>
@@ -26,19 +26,19 @@
         <font>SansSerif-plain-14</font>
         <URIString>http://vue.tufts.edu/rdf/resource/0a8b767ac0a83801006bc3f82f69add6</URIString>
         <richText>&lt;html&gt;
-  &lt;head color="#000000" style="color: #000000"&gt;
+  &lt;head style="color: #000000" color="#000000"&gt;
     &lt;style type="text/css"&gt;
       &lt;!--
-        body { font-size: 13; margin-right: 0px; margin-left: 0px; color: #000000; margin-top: 0px; font-family: Arial; margin-bottom: 0px }
-        ol { font-size: 13; vertical-align: middle; margin-left: 30; margin-top: 6; font-family: Arial; list-style-position: outside }
-        p { margin-right: 0; margin-left: 0; color: #000000; margin-top: 0; margin-bottom: 0 }
-        ul { font-size: 13; vertical-align: middle; margin-left: 30; margin-top: 6; font-family: Arial; list-style-position: outside }
+        body { margin-bottom: 0px; color: #000000; font-size: 13; font-family: Arial; margin-right: 0px; margin-left: 0px; margin-top: 0px }
+        ol { font-size: 13; vertical-align: middle; font-family: Arial; margin-left: 30; margin-top: 6; list-style-position: outside }
+        p { margin-bottom: 0; color: #000000; margin-right: 0; margin-left: 0; margin-top: 0 }
+        ul { font-size: 13; vertical-align: middle; font-family: Arial; margin-left: 30; margin-top: 6; list-style-position: outside }
       --&gt;
     &lt;/style&gt;
     
   &lt;/head&gt;
   &lt;body&gt;
-    &lt;p color="#000000" style="color: #000000"&gt;
+    &lt;p style="color: #000000" color="#000000"&gt;
       http://www.microsoftvirtualacademy.com/training-courses/introduction-to-asp-net-mvc
     &lt;/p&gt;
   &lt;/body&gt;
@@ -160,9 +160,9 @@
         <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
     </child>
     <child ID="19"
-        label="Model:&#xa;data to show,&#xa;automates validation, input via attributes"
-        layerID="1" created="1430400957877" x="614.0" y="537.0"
-        width="230.0" height="53.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
+        label="Model:&#xa;data to show,&#xa;automates validation,data types, input via attributes"
+        layerID="1" created="1430400957877" x="591.0" y="541.0"
+        width="289.0" height="53.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
         <fillColor>#F1A83E</fillColor>
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
@@ -182,27 +182,27 @@
         <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
     </child>
     <child ID="21" label="fetches" layerID="1" created="1430400967173"
-        x="604.9959" y="507.99683" width="65.00098" height="29.503174"
+        x="604.9319" y="508.3149" width="72.33429" height="33.18512"
         strokeWidth="1.0" autoSized="false" controlCount="0"
         arrowState="2" xsi:type="link">
         <strokeColor>#404040</strokeColor>
         <textColor>#404040</textColor>
         <font>Arial-plain-11</font>
         <URIString>http://vue.tufts.edu/rdf/resource/0a8b7682c0a83801006bc3f8784300b0</URIString>
-        <point1 x="605.4959" y="508.49683"/>
-        <point2 x="669.4969" y="537.0"/>
+        <point1 x="605.4318" y="508.81488"/>
+        <point2 x="676.7661" y="541.0"/>
         <ID1 xsi:type="node">18</ID1>
         <ID2 xsi:type="node">19</ID2>
     </child>
-    <child ID="22" layerID="1" created="1430400968686" x="592.56995"
-        y="589.5" width="100.36005" height="73.0" strokeWidth="1.0"
+    <child ID="22" layerID="1" created="1430400968686" x="595.2025"
+        y="593.5" width="101.59503" height="69.0" strokeWidth="1.0"
         autoSized="false" controlCount="0" arrowState="2" xsi:type="link">
         <strokeColor>#404040</strokeColor>
         <textColor>#404040</textColor>
         <font>Arial-plain-11</font>
         <URIString>http://vue.tufts.edu/rdf/resource/0a8b7683c0a83801006bc3f834fafac0</URIString>
-        <point1 x="692.43" y="590.0"/>
-        <point2 x="593.06995" y="662.0"/>
+        <point1 x="696.2975" y="594.0"/>
+        <point2 x="595.70245" y="662.0"/>
         <ID1 xsi:type="node">19</ID1>
         <ID2 xsi:type="node">20</ID2>
     </child>
@@ -275,6 +275,6 @@
     </PathwayList>
     <date>2015-04-30</date>
     <modelVersion>6</modelVersion>
-    <saveLocation>I:\src\asd-and-Rizzo.github.io</saveLocation>
-    <saveFile>I:\src\asd-and-Rizzo.github.io\ASP.NET MVC.vue</saveFile>
+    <saveLocation>W:\src\asd-and-Rizzo.github.io</saveLocation>
+    <saveFile>W:\src\asd-and-Rizzo.github.io\ASP.NET MVC.vue</saveFile>
 </LW-MAP>

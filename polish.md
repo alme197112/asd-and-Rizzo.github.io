@@ -1,4 +1,5 @@
-
+﻿
+[sz] - ж
 
 zagrajma w - lets play in 
 twoje - your
@@ -26,3 +27,9 @@ dwa - two
 razy -times
 i -and 
 pchnal - pushed
+pomocniczy - ancillary
+wyslane - sent
+becaise - because
+dziewczyny  - girl
+czesc - hello
+kiedy zrobisz mieszcaniu? - when will  you do housewarming?
