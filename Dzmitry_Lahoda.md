@@ -32,7 +32,7 @@ Fixed bugs in: custom database oriented [IDE],custom [ORM], GUI visualized out o
 *Duration:* 07.07.2014-20.04.2014
 
 
-MS Office add-ins suite for financial professionals: [Advanced Analytics](http://thomsonreuters.com/products_services/financial/financial_products/a-z/advanced_analytics) and [Eikon for Office](https://thomsonreuterseikon.com/blog/exploit-analytical-presentational-potential-thomson-reuters-eikon-microsoft-office-add)
+MS Office add-ins suite and application framework for financial professionals: [Advanced Analytics](http://thomsonreuters.com/products_services/financial/financial_products/a-z/advanced_analytics) and [Eikon for Office](https://thomsonreuterseikon.com/blog/exploit-analytical-presentational-potential-thomson-reuters-eikon-microsoft-office-add)
 ---
 
 Developed financial and productivity tools integrated with MS Office, developed framework for integrated suite of office and desktop applications
@@ -47,7 +47,7 @@ Developed financial and productivity tools integrated with MS Office, developed 
 
 *Team:* started from small end user functional team, become distributed team of changing size with many functional teams 
 
-*Used:* .NET 3.5-4.0, C#, OOP, [OOAD], Refactoring, native Windows programming technologies, WPF, MVVM, WinAPI, dependency injection(Unity and custom), XAML, C, COM, EntLib, MS Office extensibility (2003-2013, Word, PowerPoint, Excel) ,TDD, MS Tests, tests mocking, [BDD], SpecFlow, multithreading, [VSTO], source and bytecode analysis,[IPC], WCF, MS-RPC, Moq, WinDbg, Windows XP-8, Scrum, Jive The Hub, UML, VirtualBox, plotting/charting(Visifire charts), TPL, Atlassian JIRA, Outlook,  FreeMind, TortoiseSVN, XML,binary serialization,Visio, F#, Atlassian Confluence, packaging (WiX, NuGet, custom), Mono.Cecil, protobuf-net, ATL, C++,VBA, HTML, MS Server 2008 RemoteApp, Rhino.Mocks, AutoIt, OpenRepGrid, gtest
+*Used:* .NET 3.5-4.0, C#, OOP, [OOAD], Refactoring, native Windows programming technologies, WPF, MVVM, WinAPI, dependency injection(Unity and custom), XAML, C, COM, EntLib, MS Office extensibility (2003-2013, Word, PowerPoint, Excel) ,TDD, MS Tests, tests mocking, [BDD], SpecFlow, multithreading, [VSTO], source and bytecode analysis,[IPC], WCF, MS-RPC, Moq, WinDbg, Windows XP-8, Scrum, Jive The Hub, UML, VirtualBox, plotting/charting(Visifire charts), TPL, Atlassian JIRA, Outlook,  FreeMind, TortoiseSVN, XML,binary serialization,Visio, F#, Atlassian Confluence, packaging (WiX, NuGet, custom), Mono.Cecil, protobuf-net, ATL, C++,VBA, HTML, MS Server 2008 RemoteApp, Rhino.Mocks, ANTLR 3, AutoIt, OpenRepGrid, gtest
 
 *Duration:* 02.2010-06.2014, full-time
 

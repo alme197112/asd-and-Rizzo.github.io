@@ -1,18 +1,18 @@
-<!-- Tufts VUE 3.2.2 concept-map (Legal.Infrastucture.vue) 2015-04-08 -->
+<!-- Tufts VUE 3.2.2 concept-map (Legal.Infrastucture.vue) 2015-07-21 -->
 <!-- Tufts VUE: http://vue.tufts.edu/ -->
 <!-- Do Not Remove: VUE mapping @version(1.1) jar:file:/C:/Program%20Files%20(x86)/VUE/VUE.jar!/tufts/vue/resources/lw_mapping_1_1.xml -->
-<!-- Do Not Remove: Saved date Wed Apr 08 13:43:34 AST 2015 by dzmitry_lahoda on platform Windows 7 6.1 in JVM 1.7.0_21-b11 -->
+<!-- Do Not Remove: Saved date Tue Jul 21 11:27:45 BRT 2015 by Dzmitry_Lahoda on platform Windows 7 6.1 in JVM 1.7.0_21-b11 -->
 <!-- Do Not Remove: Saving version @(#)VUE: built May 23 2013 at 2146 by tomadm on Linux 2.6.18-348.2.1.el5 i386 JVM 1.7.0_21-b11(bits=32) -->
 <?xml version="1.0" encoding="US-ASCII"?>
 <LW-MAP xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="none" ID="0"
     label="Legal.Infrastucture.vue" created="1427716069063" x="0.0"
     y="0.0" width="1.4E-45" height="1.4E-45" strokeWidth="0.0" autoSized="false">
-    <resource referenceCreated="1428489814665" size="41541"
-        spec="I:\src\asd-and-Rizzo.github.io\Legal.Infrastucture.vue"
+    <resource referenceCreated="1437488865597" size="41598"
+        spec="W:\src\asd-and-Rizzo.github.io\Legal.Infrastucture.vue"
         type="1" xsi:type="URLResource">
         <title>Legal.Infrastucture.vue</title>
-        <property key="File" value="I:\src\asd-and-Rizzo.github.io\Legal.Infrastucture.vue"/>
+        <property key="File" value="W:\src\asd-and-Rizzo.github.io\Legal.Infrastucture.vue"/>
     </resource>
     <fillColor>#FFFFFF</fillColor>
     <strokeColor>#404040</strokeColor>
@@ -20,7 +20,7 @@
     <font>SansSerif-plain-14</font>
     <URIString>http://vue.tufts.edu/rdf/resource/6edc5bdd0a8f0d2e00d182795415f4e0</URIString>
     <child ID="6" label="Legal.Software.Infrastucture" layerID="1"
-        created="1427716073817" x="750.0" y="572.0" width="164.0"
+        created="1427716073817" x="800.6667" y="530.6667" width="164.0"
         height="23.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
         <fillColor>#FEFEC9</fillColor>
         <strokeColor>#A6A6A6</strokeColor>
@@ -613,7 +613,7 @@
     </child>
     <child ID="70"
         label="Instance Group:&#xa;several logical services, several physical instances of each&#xa;failover, hotswap, scalability, rollup rollback"
-        layerID="1" created="1428322172032" x="465.70898" y="683.6737"
+        layerID="1" created="1428322172032" x="462.70898" y="682.6737"
         width="333.0" height="53.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
         <fillColor>#FEFEC9</fillColor>
         <strokeColor>#A6A6A6</strokeColor>
@@ -622,15 +622,15 @@
         <URIString>http://vue.tufts.edu/rdf/resource/8ea3d04da9fe73d90164cd56ae5e361c</URIString>
         <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
     </child>
-    <child ID="72" layerID="1" created="1428322200160" x="534.0994"
-        y="626.5" width="67.51013" height="57.673706" strokeWidth="1.0"
+    <child ID="72" layerID="1" created="1428322200160" x="533.65405"
+        y="626.5" width="65.40088" height="56.673706" strokeWidth="1.0"
         autoSized="false" controlCount="0" arrowState="2" xsi:type="link">
         <strokeColor>#404040</strokeColor>
         <textColor>#404040</textColor>
         <font>Arial-plain-11</font>
         <URIString>http://vue.tufts.edu/rdf/resource/8ea3d04da9fe73d90164cd56eb99fb4d</URIString>
-        <point1 x="534.5994" y="627.0"/>
-        <point2 x="601.10956" y="683.6737"/>
+        <point1 x="534.15405" y="627.0"/>
+        <point2 x="598.55493" y="682.6737"/>
         <ID1 xsi:type="node">30</ID1>
         <ID2 xsi:type="node">70</ID2>
     </child>
@@ -724,8 +724,8 @@
         y="0.0" width="1.4E-45" height="1.4E-45" strokeWidth="0.0" autoSized="false">
         <URIString>http://vue.tufts.edu/rdf/resource/6edc5bde0a8f0d2e00d18279e8ec059d</URIString>
     </layer>
-    <userZoom>1.25</userZoom>
-    <userOrigin x="-1421.2915" y="-124.49773"/>
+    <userZoom>1.0</userZoom>
+    <userOrigin x="-1139.0332" y="-95.78573"/>
     <presentationBackground>#202020</presentationBackground>
     <PathwayList currentPathway="0" revealerIndex="-1">
         <pathway ID="0" label="Untitled Pathway" created="1427716069063"
@@ -777,6 +777,6 @@
     </PathwayList>
     <date>2015-03-30</date>
     <modelVersion>6</modelVersion>
-    <saveLocation>I:\src\asd-and-Rizzo.github.io</saveLocation>
-    <saveFile>I:\src\asd-and-Rizzo.github.io\Legal.Infrastucture.vue</saveFile>
+    <saveLocation>W:\src\asd-and-Rizzo.github.io</saveLocation>
+    <saveFile>W:\src\asd-and-Rizzo.github.io\Legal.Infrastucture.vue</saveFile>
 </LW-MAP>

@@ -1,6 +1,7 @@
 
 My list of non material motivators. Plus is motivator. Minus is demotivator.
 
+
 ---
 
 What source repository is used?
@@ -86,5 +87,7 @@ How much of custom virtual global variables needed to be initialized boot develo
 
 
 How you company grows or project grows? What are my perspectives regarding finances and stability? 
+
+
 
 

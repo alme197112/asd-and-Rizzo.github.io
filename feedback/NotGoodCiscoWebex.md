@@ -2,7 +2,7 @@
 
 WebEx streaming player it bad. Here is why:
 
-- If Cisco is paued for traffic or usage of Webex online service, then most  of next issues lead to increased spent on behalf of Cisco clients. Clients loose money and slow down their network. 
+- If Cisco is paused for traffic or usage of Webex online service, then most  of next issues lead to increased spent on behalf of Cisco clients. Clients loose money and slow down their network. 
 
 - On my machine I have to watch many videos in size more then one and half hour
 
@@ -31,6 +31,13 @@ WebEx streaming player it bad. Here is why:
 
 - Update to latest version of software as of 2015-04-02 does not help.
 
+Webex meeting bad and here is why:
+
+- When it starts if grabs desktop and popup many times and grabs keyboard. I prevents me doing ananything until all Webex fully started. Its start is to noisy.
+
+- When I call WebEx via Skype then WebEx fails to read `Meeting Number` several times in a row. This happens for 5 years I call WebEx via Skype.
+
+- When I call WebEx via Skype people here me well. But when I call WebEx via WebEx there is terrible echo. 
 
 
 

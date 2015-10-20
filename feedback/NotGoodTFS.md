@@ -2,11 +2,11 @@
 TFS
 ===
 
-[TFS] with Team Foundation Version Control is unintuitive (I used GIT and SVN and was happy), unlogical, not consistent and buggy.
+[TFS] with Team Foundation Version Control is unintuitive (I used GIT and SVN and was happy), illogical, not consistent, buggy, slow.
 
 There are hate articles of TFS in internet.  
 
-This is my  list of issues (VS 2012 and TFS 2013, with personal preferences for Git and open source tools, and experience with Atlassian, and different very old enterprise tools):
+And this is my  list of issues (VS 2012/2013 and TFS 2010/2013, with personal preferences for Git and open source tools, and experience with Atlassian, and different very old enterprise tools):
 
 - On check in it shows that there are merge conflicts even if I do not check in conflicted files. Conflicted file onlu one - MySolution.sln, which I have different local. It becomes different right after VS open for some reason.
 
@@ -60,7 +60,7 @@ I have to translate this formats when working with Outlook messages and TFS item
  
  - Cancel on commit leads to weird errors needed to reconstucte commit. 
  
- - In issue view TFS VS I have buttons to open in Office. But now button to open in web browser or to copy full issue name (id + title) to share this in communicaiton.
+ - In issue view TFS VS I have buttons to open in Office. But now button to open in web browser or to copy full issue name (id + title) to share this in communication.
  
 - tf.exe does not allows to create second workspace targeting same TFS collections. I need this because if I map several branches onto local folders VS becomes very very slow on any operation with version control. And there is no official Nuget TFS client assemblies to automate TFS via .NET language easily.
 
@@ -69,6 +69,47 @@ I have to translate this formats when working with Outlook messages and TFS item
 - TFS is integerated into shell, but has no icon. Git and Svn has - so easy to find menu entry.
 
 - We have team. They create many shelvesets and submit these to reviewer in other team, creating big unmergable big ball of mood. Shelveset hell. In git we do fork for team with several branches for features team works. Commits and pushes are done, back merges from mainline. When it time to review by external team these are given branch with cohesive already merged feature.
+
+- I made map from `VisualStudio.com` to `Local` in VS 2013. Added files in `Windows Explorer`. `Team Explorer` does not see my chabes. But this uses to work on previous project.
+
+- when I do somthing in TFS Compare, and operation fails, and nothing changes. I still does long compare operation again. Even if single change is made, whole process reruns for all files at hands which is long.
+
+- My solution went `Offline`. I have not noticed this. When I pressed `get latest` version in source explorer there was no indication that I am Offline. I did not get new code even after pressed `get latest`. So `offline` is perverted notion in VS, I am really online and loged into TFS, but formally offline.
+
+- TFPT Undo dialog has no ways to sort by file extension. I need this to undo code, but not locally changed config.
+
+- TFPT Undo dialog there is not Compare button to decide inline if I do want or dot not want Undo this file among many.
+
+- some times TFS kind of hangs downloading single file, but in reality it started to download other without updating progress window. Both via Explorer menu and in VS.
+
+- Developer put 1.5 GB binary file into solution into sub folder, I want to skip update it, but update all other folders and files. There is not way to get all updates skipping one folder if select all files+folders and deselect one in Windows Explorer. Only update several dozens folder+files one by one or manually deselect temp build folders and pure files got in select. I hoped Get all to work even if one selected item is TFS mapped, even of others no. I work remotely far away via VPN, so downloading such big goes to timeout.
+
+- TFS via Windows Explorer does not matched TFS in VS does not matches command line, etc.
+
+- Given one big file to update, TFS download does not shows how much was downloaded.
+
+- TFS marks files as read only preventing other more convenient and useful tools to work on these.
+
+- I tried to change file and get error that TFS server not avalable. Admin prevented to choose Local setting duriing maping, only server.  I pressed Disconnect from TFS, and VS go blank. I restarted TFS to go Offline. It notified that sever is not available and suggested offline. I pressed go. So Disconnect button is sense cause I still need to restart VS.
+
+```
+---------------------------
+Microsoft Visual Studio
+---------------------------
+Error
+TF400324: Team Foundation services are not available from server tfsnpt.int.thomson.com\Cobalt_Collection.
+Technical information (for administrator):
+  The remote name could not be resolved: 'tfsnpt.int.thomson.com'
+---------------------------
+OK   
+---------------------------
+```
+
+- If want put bug into `ready to test` but there no such option. Only when I assign bug to myself I can see this options. What I want is to see all possible states with explanation how to get into these. 
+It may be if I fixed bug as part of other bug. Tested that current bug fixed either, and I not used any time into this bug except testing, so it was not assigned to me.
+
+
+
 
 [TFS]: https://en.wikipedia.org/wiki/Team_Foundation_Server
 

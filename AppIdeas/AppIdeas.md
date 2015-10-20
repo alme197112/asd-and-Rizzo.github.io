@@ -43,5 +43,6 @@
 
 - write stress test core in Rust with interafces for ReactOS, Android, FirefoxOS
 
+- Rust Domain Language Workbainch with Concept tree using similar to WebAssembly
 
-
+- Rust to IL compiler

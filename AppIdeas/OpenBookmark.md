@@ -57,6 +57,9 @@ When root bookmark changes, I got notified, so can apply/merge/cancel my changes
 
 I can break the link not to get any notifications.
 
+Or I have `private` bookmarks which are visible only to me, and all other shared from common source.
+E.g. `privat` would be `watched` while `public` would be `video` `tutorial` `math`.
+
 **Aspect descriptions**
 
 I want to tag shop with what it is about and a describe my feedback about it. I want to fields different for these.
