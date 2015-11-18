@@ -108,8 +108,7 @@ OK
 - If want put bug into `ready to test` but there no such option. Only when I assign bug to myself I can see this options. What I want is to see all possible states with explanation how to get into these. 
 It may be if I fixed bug as part of other bug. Tested that current bug fixed either, and I not used any time into this bug except testing, so it was not assigned to me.
 
-
-
+- TFS searches and shares shelves only if you type user name EXACTLY, you cannot search by shelveste name.
 
 [TFS]: https://en.wikipedia.org/wiki/Team_Foundation_Server
 

@@ -12,6 +12,8 @@ Network switcher with hooks
 ---
 When we enter or leave VPN, change WiFi or LAN, we have event and can change default browser or close/open some programs, or other action needed.
 
+Prevent WiFi to turn on if some Kind of ehternet available. Is traffic goes WiFi it may has lesst access or worth DNS in Entprise.
+
 Credentials/switcher cleaner with hooks
 ---
 When we changed some credential entered in many browser and utils, we can delete or update these in one act.

@@ -46,3 +46,26 @@
 - Rust Domain Language Workbainch with Concept tree using similar to WebAssembly
 
 - Rust to IL compiler
+
+- customized clean up of System and NIST files out of image and vidoe and audio folder and docs  no extension
+* case  new file same extension 
+* detect by contetn
+* degree unsurance 
+ 
+  (\.cs)|(\.java)|(\.pdb)|(\.scala)|(\.ini)|(\.exe)|(\.dll)|(\.json)
+(\.xml)|(\.xsl)|(\.xsd)|(\.lnk)
+(\.inf)|(\.src)|(\.cat)|(\.htm)|(\.resx)|(\.cab)|(\.cpp)|(\.chm)|(\.dds)|(\.cur)|(\.hlp)|(\.lst)|(\.ax)
+(\.nld)|(\.mccd)|(\.mui)|(\.mtz)|(\.msf)|(\.molrep_rf)|(\.com)|(\.oem)|(\.nsh)
+(\.obj)|(\.txt)|(\.msg)|(\.pack)|(\.pas)|(\.pcm)|(\.patch)|(\.pnf)|(\.pdf)|(\.doc)|(\.properties)|(\.ppt)|(\.query)
+(\.sys)|(\.svn)|(\.txt)|(\.vue)|(\.xaml)|(\.xmgr)|(\.xpt)|(\.jar)|(\.ocx)|(\.lex)
+(\.def)|(\.drv)|(\.res)|(\.dun)|(\.fon)|(\.so)       
+(\.xpt)|(\.dtd)|(\.xps)|(\.xdr)|(\.xmi)|(\.xmgr)|(\.msi)|(\.cmd)|(\.vmsg)|(\.log)|(\.tlb)|(\.master)|(\.bak)
+(\.bin)|(\.vbs)|(\.ttf)|(\.suo)|(\.settings)|(\.vdi)|(\.ver)|(\.uce)|(\.tsp)|(\.tmp)|(\.sig)
+(\.dlg)|(\.djvu)|(\.ini)|(\.rll)
+(\.baml)|(\.boo)|(\.browser)|(\.bas)|(\.btr)|(\.res)|(\.cnt)|(\.cfg)
+acm adm ani
+m x sf c h
+
+- Elastic as audit, raw fields, not search oldest latest queries, auto index, tophists 1, parse tree.
+
+- github for osm, e.g. city/road/communications builders need orchestrate changes to these facilitires and plang iteration and diff proposed changes.

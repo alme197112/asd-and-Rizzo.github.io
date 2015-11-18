@@ -80,4 +80,8 @@ Because desktop is under telegram it somehow should be connected.
 
 Machine translation is must.
 
+**Integration**
+
+If we start in `gitlab` we get this in our system.
+
 
