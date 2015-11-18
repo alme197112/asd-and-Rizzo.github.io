@@ -12,7 +12,7 @@ I have 2 500GB SDD Samsung 850 Pro. Second is in caddy instead ODD.
 
 Dell Inspiron 15R N5110 is overheating, so I use passive cooling - put it on books or some other means to ensure air beneath laptop. Also reduce max processer speed to 90%.
 
-It had Atheros AR5B195 WiFi and Qualcomm Atheros AR3011 Bluetooth 3.0. Replaces with better INTEL Duel Band Wireless-AC 7260 7260HMW 802.11AC Dual Band BT4.0. Removed separate Bluetooth 3.0 card.
+It had Atheros AR5B195 WiFi and Qualcomm Atheros AR3011 Bluetooth 3.0. Replaced with better INTEL Dual Band Wireless-AC 7260 7260HMW 802.11AC Dual Band BT4.0. Removed separate Bluetooth 3.0 card.
 
 Researched how to replace 1366x768 with something higher, not results yet.
 
