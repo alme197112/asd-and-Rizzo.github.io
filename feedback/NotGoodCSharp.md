@@ -11,4 +11,6 @@
 
 - cannot path enumerable or array instead of params.
 
-- IReadOnlyDictionary and KeyValuePair are not contrvariant but readonly. 
+- IReadOnlyDictionary and KeyValuePair are not contrvarian, but readonly. 
+
+- List has readonly interface, but IList does not have.

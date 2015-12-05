@@ -31,3 +31,4 @@ est - есть
 id - то
 frater - brother
 cidium - murder
+affectues - страсть, душевное волнение

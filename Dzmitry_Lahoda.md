@@ -20,7 +20,7 @@ Projects:
 
 Developing eDiscovery server engine which does upload, [processing and production](http://www.edrm.net/edrm-stages-standards) of large amount of legal documents.
 
-*Details:* Developing sever side orchestration and error handling of event driven services, providing web API, optimizing data access, debugging multiserver asynchronous workflows, audit and reporting. Working with several server data storages: relational, document and files. Improving collaboration and communication by introducing and effective usage of modern tools and workflows. Applying skills to make our team to produce better digital artifacts (code and documentation) to fill ongoing and future needs. Working in complex project and process environment but staying constructive and deliver.
+*Details:* Developing server side orchestration and error handling of event driven services, providing web API, optimizing data access, debugging multiserver asynchronous workflows, audit and reporting. Working with several server data storages: relational, document and files. Improving collaboration and communication by introducing and effective usage of modern tools and workflows. Applying skills to make our team to produce better digital artifacts (code and documentation) to fill ongoing and future needs. Working in complex project and process environment but staying constructive and deliver.
 
 *Position:* Lead Software Engineer, Contractor.
 
